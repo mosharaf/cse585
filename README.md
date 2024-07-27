@@ -240,7 +240,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
  
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **one insightful question** for each presented papers before each class. 
+  - You are required to [submit](TBA) **one insightful question** for each presented papers before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
 
 ### Participation
@@ -257,9 +257,9 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group of 2-3 members and [declare your group's membership and paper preferences](TBA) by **January 23**. After this date, we will form groups from the remaining students.
-* Turn in a 2-page draft proposal (including references) by **February 9**. Remember to include the names and Michigan email addresses of the group members. 
-* Each group must present mid-semester progress during class hours on **March 12 and March 14**.
+* Form a group of 2-3 members and [declare your group's membership and paper preferences](TBA) by **September 5**. After this date, we will form groups from the remaining students.
+* Turn in a 2-page draft proposal (including references) by **September 19**. Remember to include the names and Michigan email addresses of the group members. 
+* Each group must present mid-semester progress during class hours on **October 22 and October 24**.
 * Each group must turn in an 8-page final report and your code via email **on or before 6:00PM EST on December 16.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 * You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
 

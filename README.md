@@ -60,10 +60,10 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 | Sep  5  | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://openreview.net/forum?id=ztn8FCR1td) (Required)
 |         | [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
-| Sep 10  | **No Lecture: Work on Projects**
+| Sep 10  | **No Lecture: Work on Project Proposals**
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
-|         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
-| Sep 12  | **Buffer**
+| Sep 12  | **No Lecture: Work on Project Proposals**
+|         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required)
 |         | **Pre-Training**
 | Sep 17  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
 |         | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) 
@@ -78,7 +78,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 | Sep 26  | [FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](https://dl.acm.org/doi/abs/10.14778/3579075.3579083) (Required)
 |         | [Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters](https://arxiv.org/abs/2307.12169) (Required)
 |         | [Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement](https://arxiv.org/abs/2407.04656)
-|         | **Fine Tuning and Alignment**
+|         | **Post-Training**
 | Oct  1  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required)
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 
 |         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) (Section 4) (Required)
@@ -98,8 +98,8 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal)
 | Oct 22  | **Mid-Semester Presentations**
 | Oct 24  | **Mid-Semester Presentations**
-| Oct 29  | **No Lecture: Work on Projects**
-| Oct 31  | **Buffer**
+| Oct 29  | **No Lecture: Recalibrate Projects**
+| Oct 31  | **No Lecture: Work on Projects**
 | Nov  5  | **No Lecture: Work on Projects**
 | Nov  7  | [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang) (Required)
 |         | [Mixture of LoRA Experts](https://openreview.net/forum?id=uWvKBCYh4S) (Required)
@@ -124,7 +124,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) 
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Nov 28  | **No Lecture: Thanksgiving Recess**
-| Dec  3  | **No Class: Prep for Poster Presentation**
+| Dec  3  | **No Lecture: Work on Posters**
 |         | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required)
 | Dec  5  | **Final Poster Presentations**<br>TBA
 

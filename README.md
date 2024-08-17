@@ -4,7 +4,7 @@
 * Catalog Number: 34176
 * Lectures/Discussion: 1003 EECS, TTh: 10:30 AM – 12:00 PM
 * Projects/Makeup: 185 EWRE, F 1:30 PM – 2:30 PM
-* Counts as: Software Breadth (PhD); Technical Elective and 500-Level (MS/E)
+* Counts as: Software Breadth and Depth (PhD); Technical Elective and 500-Level (MS/E)
 
 ### Team
 
@@ -48,11 +48,12 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2)
+|         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 |         | **GenAI Basics**
 | Aug 29  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) | Insu
+|         | [The Illustrated GPT2](https://jalammar.github.io/illustrated-gpt2/)
 |         | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 |         | [Attention is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)
-|         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 | Sep 3   | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) | Shiqi He
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
 |         | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
@@ -81,7 +82,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | **Post-Training**
 | Oct  1  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required)
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 
-|         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) (Section 4) (Required)
+|         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783) (Required)
 |         | **Inference**
 | Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required)
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Required)
@@ -116,7 +117,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 |         | [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://dl.acm.org/doi/10.1145/3627703.3629553) (Required)
 |         | **Power and Energy Optimizations**
-| Nov 21  | [Perseus: Removing Energy Bloat from Large Model Training]() (Required)
+| Nov 21  | [Perseus: Reducing Energy Bloat from Large Model Training]() (Required)
 |         | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) (Required)
 |         | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/abs/10.1145/3620666.3651329)
 |         | **Ethical Considerations**

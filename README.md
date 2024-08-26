@@ -11,7 +11,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
-| [Insu Jang](https://insujang.github.io/) (insujang) | GSI | TBA
+| [Insu Jang](https://insujang.github.io/) (insujang) | GSI | 4828 BBB. Friday 12:30PM - 1:30PM
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/fall2024/cse585).

@@ -117,7 +117,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 |         | [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://dl.acm.org/doi/10.1145/3627703.3629553) (Required)
 |         | **Power and Energy Optimizations**
-| Nov 21  | [Perseus: Reducing Energy Bloat from Large Model Training]() (Required)
+| Nov 21  | [Perseus: Reducing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) (Required)
 |         | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/abs/10.1145/3620666.3651329)
 |         | **Ethical Considerations**
@@ -198,7 +198,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
  
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit](TBA) **one insightful question** for each presented papers before each class. 
+  - You are required to [submit](https://docs.google.com/forms/d/e/1FAIpQLSeq-pS1HsU9yv1nJVqvsmluOcD6RuNbjNbbi9nfYoLxUZXpHA/viewform?usp=pp_url) **one insightful question** for each presented papers before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
 
 ### Participation
@@ -215,7 +215,7 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group of 2-3 members and [declare your group's membership and paper preferences](TBA) by **September 5**. After this date, we will form groups from the remaining students.
+* Form a group of 2-3 members and [declare your group's membership and paper preferences](https://docs.google.com/forms/d/e/1FAIpQLScvqZHKpqF07ze2sPqLR0bmxmlGT-1RmKXnRs0ALZFcRHRuow/viewform?usp=pp_url) by **September 5**. After this date, we will form groups from the remaining students.
 * Turn in a 2-page draft proposal (including references) by **September 19**. Remember to include the names and Michigan email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **October 22 and October 24**.
 * Each group must turn in an 8-page final report and your code via email **on or before 6:00PM EST on December 16.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.

@@ -43,7 +43,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 
 | Date    | Readings                       | Presenter | Summary | Reviewer
 | --------| -------------------------------| --------- | ------- | -------
-| Aug 27  | **Introduction** | Mosharaf
+| Aug 27  | **Introduction** | [Mosharaf](Slides/082724-MChowdhury.pdf)
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)

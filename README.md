@@ -50,7 +50,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2)
 |         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 |         | **GenAI Basics**
-| Aug 29  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) | Insu
+| Aug 29  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) | [Insu](Slides/082924-insujang.pdf)
 |         | [The Illustrated GPT2](https://jalammar.github.io/illustrated-gpt2/)
 |         | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 |         | [Attention is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)

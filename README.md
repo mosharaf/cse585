@@ -54,7 +54,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Illustrated GPT2](https://jalammar.github.io/illustrated-gpt2/)
 |         | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 |         | [Attention is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)
-| Sep 3   | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) | Shiqi He
+| Sep 3   | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) | [Shiqi He](Slides/090324-shiqihe-insujang-mchowdhury.pdf)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
 |         | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
 |         | [NExT-GPT: Any-to-Any Multimodal LLM](https://openreview.net/forum?id=NZQkumsNlf)

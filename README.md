@@ -59,6 +59,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
 |         | [NExT-GPT: Any-to-Any Multimodal LLM](https://openreview.net/forum?id=NZQkumsNlf)
 | Sep  5  | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
+|         | [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 |         | [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://openreview.net/forum?id=ztn8FCR1td) (Required)
 |         | [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
 | Sep 10  | **No Lecture: Work on Project Proposals**

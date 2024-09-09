@@ -85,10 +85,10 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 
 |         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783) (Required)
 |         | **Inference**
-| Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | Yuchen Xia, Yeda Song, Hendrik Mayer | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong
+| Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Required)
 |         | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html)
-| Oct  8  | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://openreview.net/forum?id=mZn2Xyh9Ec) (Required) | Aditya Singhvi, Alex de la Iglesia, Ammar Ahmed | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham | Yuchen Xia, Yeda Song, Hendrik Mayer
+| Oct  8  | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://openreview.net/forum?id=mZn2Xyh9Ec) (Required) | Aditya Singhvi, Alex de la Iglesia, Ammar Ahmed | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi
 |         | [FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics](https://proceedings.mlsys.org/paper_files/paper/2024/hash/5321b1dabcd2be188d796c21b733e8c7-Abstract-Conference.html)
 |         | [SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification](https://dl.acm.org/doi/10.1145/3620666.3651335) (Required)
 | Oct 10  | [Splitwise: Efficient Generative LLM Inference Using Phase Splitting](https://ieeexplore.ieee.org/abstract/document/10609649) (Required) | Shaurya Gunderia, Marissa Bhavsar, Raghav Ramesh, Chris Lin | Aryan Joshi, Adit Kolli, Anup Bagali, Keshav Singh | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. 
@@ -122,7 +122,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) (Required)
 |         | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/abs/10.1145/3620666.3651329)
 |         | **Ethical Considerations**
-| Nov 26  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) | Melina O'Dell, Yutong Ai, Jeff Brill, Max Liu | Yuchen Xia, Yeda Song, Hendrik Mayer | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham
+| Nov 26  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) | Melina O'Dell, Yutong Ai, Jeff Brill, Max Liu | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Nov 28  | **No Lecture: Thanksgiving Recess**

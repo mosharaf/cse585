@@ -128,7 +128,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 | Nov 28  | **No Lecture: Thanksgiving Recess**
 | Dec  3  | **No Lecture: Work on Posters**
 |         | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required)
-| Dec  5  | **Final Poster Presentations**<br>TBA
+| Dec  5  | **Final Poster Presentations**<br>Tishman Hall @Beyster<br>(10:30AM - 12PM)
 
 ## Policies
 

@@ -67,7 +67,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 | Sep 12  | **No Lecture: Work on Project Proposals**
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required)
 |         | **Pre-Training**
-| Sep 17  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) | [Kaiwen Xue, Yi Chen, Yunchi Lu](/Slides/091724-yi-yunchi-kevin.pdf) | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong | Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec
+| Sep 17  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) | [Kaiwen Xue, Yi Chen, Yunchi Lu](/Slides/091724-yi-yunchi-kevin.pdf) | [Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong](/Summaries/091724.pdf) | Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec
 |         | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required)
 |         | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://www.usenix.org/conference/nsdi24/presentation/jiang-ziheng)

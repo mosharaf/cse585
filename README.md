@@ -77,7 +77,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 | Sep 24  | [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://dl.acm.org/doi/10.1145/3458817.3476205) (Required) | [Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong](/Slides/092424-siyuan-haotian-zheng-zhongwei.pdf) | [Kaiwen Xue, Yi Chen, Yunchi Lu](/Summaries/092424.pdf) | Melina O'Dell, Yutong Ai, Jeff Brill, Max Liu
 |         | [Reducing Activation Recomputation in Large Transformer Models](https://proceedings.mlsys.org/paper_files/paper/2023/hash/80083951326cf5b35e5100260d64ed81-Abstract-mlsys2023.html) (Required)
 |         | [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://openreview.net/forum?id=hYHsrKDiX7)
-| Sep 26  | [FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](https://dl.acm.org/doi/abs/10.14778/3579075.3579083) (Required) | Alex Zhang,Jiyu Chen,Kasey Feng,Yuning Cong | Runyu Lu, Jeff Ma, Ruofan Wu | Kaiwen Xue, Yi Chen, Yunchi Lu
+| Sep 26  | [FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](https://dl.acm.org/doi/abs/10.14778/3579075.3579083) (Required) | [Alex Zhang,Jiyu Chen,Kasey Feng,Yuning Cong](/Slides/092624-ahzhang-jiyuchen-kaixfeng-yuningc.pdf) | Runyu Lu, Jeff Ma, Ruofan Wu | Kaiwen Xue, Yi Chen, Yunchi Lu
 |         | [Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters](https://arxiv.org/abs/2307.12169) (Required)
 |         | [Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement](https://arxiv.org/abs/2407.04656)
 |         | **Post-Training**

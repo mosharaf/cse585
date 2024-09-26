@@ -83,7 +83,8 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | **Post-Training**
 | Oct  1  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen | Rishika Varma Kalidindi, Nicholas Mellon, Sitota Mersha, Kalab Assefa | Runyu Lu, Jeff Ma, Ruofan Wu
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 
-|         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783) (Required)
+|         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783)
+|         | [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints](https://openreview.net/forum?id=T5nUQDrM4u)  (Required)
 |         | **Inference**
 | Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Required)

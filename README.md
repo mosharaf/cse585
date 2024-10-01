@@ -81,7 +81,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters](https://arxiv.org/abs/2307.12169) (Required)
 |         | [Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement](https://arxiv.org/abs/2407.04656)
 |         | **Post-Training**
-| Oct  1  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | [Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen](/Slides/100124-wilkincr-krsun-oskarhs.pdf) | Rishika Varma Kalidindi, Nicholas Mellon, Sitota Mersha, Kalab Assefa | Runyu Lu, Jeff Ma, Ruofan Wu
+| Oct  1  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | [Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen](/Slides/100124-wilkincr-krsun-oskarhs.pdf) | [Rishika Varma Kalidindi, Nicholas Mellon, Sitota Mersha, Kalab Assefa](/Summaries/100124.pdf) | Runyu Lu, Jeff Ma, Ruofan Wu
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 
 |         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783)
 |         | [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints](https://openreview.net/forum?id=T5nUQDrM4u)  (Required)

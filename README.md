@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Llama 3 Herd of Models (Section 4)](https://arxiv.org/abs/2407.21783)
 |         | [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints](https://openreview.net/forum?id=T5nUQDrM4u)  (Required)
 |         | **Inference**
-| Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | [Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi](/Slides/100324-htmayer-yedasong-stilex.pdf) | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong
+| Oct  3  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | [Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi](/Slides/100324-htmayer-yedasong-stilex.pdf) | [Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S.](/Summaries/100324.pdf) | Haotian Gong, Zhongwei Xu, Zheng Li, Siyuan Dong
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Required)
 |         | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html)
 | Oct  8  | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://openreview.net/forum?id=mZn2Xyh9Ec) (Required) | Aditya Singhvi, Alex de la Iglesia, Ammar Ahmed | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi

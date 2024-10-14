@@ -119,7 +119,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 |         | [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://dl.acm.org/doi/10.1145/3627703.3629553) (Required)
 |         | **Power and Energy Optimizations**
-| Nov 21  | [Perseus: Reducing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required) | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec | Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen
+| Nov 21  | [Perseus: Reducing Energy Bloat in Large Model Training](https://arxiv.org/abs/2312.06902) (Required) | Shmeelok Chakraborty, Peter Cao, Harsh Sinha, Divyam S. | Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec | Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen
 |         | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) (Required)
 |         | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/abs/10.1145/3620666.3651329)
 |         | **Ethical Considerations**

@@ -96,7 +96,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin)
 |         | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) (Required)
 | Oct 15  | **Fall Study Break**
-| Oct 17  | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283) (Required) | [Rishika Varma Kalidindi, Nicholas Mellon, Sitota Mersha, Kalab Assefa](/Slides/101724-rishikak-nbmellon-sitotaem-kassefa.pdf) | Paul-Andrei Aldea, Ho Jung Kim, Michael Hwang, Jason Liang | Aryan Joshi, Adit Kolli, Anup Bagali, Keshav Singh
+| Oct 17  | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283) (Required) | [Rishika Varma Kalidindi, Nicholas Mellon, Sitota Mersha, Kalab Assefa](/Slides/101724-rishikak-nbmellon-sitotaem-kassefa.pdf) | [Paul-Andrei Aldea, Ho Jung Kim, Michael Hwang, Jason Liang](/Summaries/101724.pdf) | Aryan Joshi, Adit Kolli, Anup Bagali, Keshav Singh
 |         | [Fairness in Serving Large Language Models](https://www.usenix.org/conference/osdi24/presentation/sheng) (Required)
 |         | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal)
 | Oct 22  | **Mid-Semester Presentations**

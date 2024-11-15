@@ -111,7 +111,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514) (Required)
 |         | [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://dl.acm.org/doi/10.1145/3620665.3640411)
 |         | **Grounding**
-| Nov 14 | [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://openreview.net/forum?id=hSyW5go0v8) (Required) | [Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec](/Slides/111424-bdwzhang-justpaul-sastec-gosreya.pdf) | Alex Zhang,Jiyu Chen,Kasey Feng,Yuning Cong | Aditya Singhvi, Alex de la Iglesia, Ammar Ahmed
+| Nov 14 | [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://openreview.net/forum?id=hSyW5go0v8) (Required) | [Brandon Zhang, Justin Paul, Sreya Gogineni, Sarah Stec](/Slides/111424-bdwzhang-justpaul-sastec-gosreya.pdf) | [Alex Zhang, Jiyu Chen, Kasey Feng, Yuning Cong](/Summaries/111424.pdf) | Aditya Singhvi, Alex de la Iglesia, Ammar Ahmed
 |         | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
 |         | **GenAI (for) Systems**

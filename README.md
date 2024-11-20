@@ -115,7 +115,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
 |         | **GenAI (for) Systems**
-| Nov 19  | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | [Aryan Joshi, Adit Kolli, Anup Bagali, Keshav Singh](/Slides/111924-aryanj-abagali-keshsing-aditk.pdf) | Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen | Alex Zhang,Jiyu Chen,Kasey Feng,Yuning Cong
+| Nov 19  | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | [Aryan Joshi, Adit Kolli, Anup Bagali, Keshav Singh](/Slides/111924-aryanj-abagali-keshsing-aditk.pdf) | [Connor Wilkinson, Kevin Sun, Oskar Shiomi Jensen](/Summaries/111924.pdf) | Alex Zhang,Jiyu Chen,Kasey Feng,Yuning Cong
 |         | [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 |         | [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://dl.acm.org/doi/10.1145/3627703.3629553) (Required)
 |         | **Power and Energy Optimizations**

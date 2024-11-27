@@ -123,7 +123,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) (Required)
 |         | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/abs/10.1145/3620666.3651329)
 |         | **Ethical Considerations**
-| Nov 26  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) | [Melina O'Dell, Yutong Ai, Jeff Brill, Max Liu](/Slides/112624-jhbrill-melodell-yinghal.pdf) | Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham
+| Nov 26  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) | [Melina O'Dell, Yutong Ai, Jeff Brill, Max Liu](/Slides/112624-jhbrill-melodell-yinghal.pdf) | [Yuchen Xia, Yeda Song, Hendrik Mayer, Erik Chi](/Summaries/112624.pdf) | Vatsal Joshi, Yoon Sung Ji, Omkar Yadav, Lohit Kamatham
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Nov 28  | **No Lecture: Thanksgiving Recess**

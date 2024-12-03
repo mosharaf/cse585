@@ -127,7 +127,7 @@ We will read recent papers from top venues to understand trends in scalable (Gen
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Nov 28  | **No Lecture: Thanksgiving Recess**
-| Dec  3  | **Wrap Up** | Mosharaf, Insu
+| Dec  3  | **Wrap Up** | [Mosharaf](Slides/120324-MChowdhury.pdf)
 |         | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required)
 | Dec  5  | **Final Poster Presentations**<br>Tishman Hall @Beyster<br>(10:30AM - 12PM) | [Template](Resources/poster.pptx)
 

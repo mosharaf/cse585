@@ -52,6 +52,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Aug 28 | **GenAI Basics** | Jae-Won |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) |  |  |  |
+|  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (Required) |  |  |  |
 | Sep  2 | **No Lecture: Find Project Groups** |  |  |  |
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
 | Sep  4 | **Training Basics** | Jae-Won |  |  |

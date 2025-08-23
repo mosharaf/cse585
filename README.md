@@ -109,7 +109,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 18 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970) (Required) |  |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
 |  | Kareus |  |  |  |
-| Nov 20 | [AI Load Dynamics--A Power Electronics Perspective](https://arxiv.org/abs/2502.01647) (Required) |  |  |  |
+| Nov 20 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) |  |  |  |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Ethical Considerations** |  |  |  |
 | Nov 25 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) |  |  |  |

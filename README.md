@@ -44,7 +44,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 
 | Date | Readings | Presenter | Summary | Reviewer |
 | :---- | :---- | :---- | :---- | :---- |
-| Aug 26 | **Introduction** | Mosharaf |  |  |
+| Aug 26 | **Introduction** | [Mosharaf](Slides/082625-MChowdhury.pdf) |  |  |
 |  | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required) |  |  |  |
 |  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |

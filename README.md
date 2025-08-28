@@ -49,7 +49,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
 |  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) |  |  |  |
-| Aug 28 | **GenAI Basics** | Jae-Won |  |  |
+| Aug 28 | **GenAI Basics** | [Jae-Won](Slides/082825-JWChung.pdf) |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (Required) |  |  |  |

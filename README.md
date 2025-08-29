@@ -10,7 +10,7 @@
 
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
+| [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4156 LEIN. **By appointments only.**
 | [Jae-Won Chung](https://jaewonchung.me/about) (jwnchung) | GSI | 4828 BBB. Fri 10:30 AM - 11:30 AM.
 
 ### Communication

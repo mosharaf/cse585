@@ -49,13 +49,13 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
 |  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) |  |  |  |
-| Aug 28 | **GenAI Basics** | [Jae-Won](Slides/082825-JWChung.pdf) |  |  |
+| Aug 28 | **Introduction to GenAI and Systems for GenAI** | [Jae-Won](Slides/082825-JWChung.pdf) |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (Required) |  |  |  |
 | Sep  2 | **No Lecture: Find Project Groups** |  |  |  |
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
-| Sep  4 | **Training Basics** | Jae-Won |  |  |
+| Sep  4 | **Distributed Training Basics** | [Jae-Won](Slides/090425-JWChung.pdf) |  |  |
 |  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |  |  |  |
 | Sep  9 | **No Lecture: Work on Project Proposals** |  |  |  |
 |  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |

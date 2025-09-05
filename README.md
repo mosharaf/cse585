@@ -66,7 +66,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng) (Required) |  |  |  |
 | Sep 16 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Aaron, Uygur, Brandon | Yana, Sami, David | Gary, Tongyuan, Annie, Kai Jun |
 |  | [PartIR: Composing SPMD Partitioning Strategies for Machine Learning](https://dl.acm.org/doi/10.1145/3669940.3707284) (Required) |  |  |  |
-| Sep 18 | [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) | Satyam, Arjun, Tanush, Kushal | Arnav, Nishant, Muzhe, Yuxuan | Yuewen, Dhanvi, Rudrajyoti, Haoran |
+| Sep 18 | [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) | Satyam, Arjun, Tanush, Kushal | Arnav Reddy, Nishant, Muzhe, Yuxuan | Yuewen, Dhanvi, Rudrajyoti, Haoran |
 |  | [SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation](https://www.usenix.org/conference/atc24/presentation/xiong) (Required) |  |  |  |
 |  | [Training with Confidence: Catching Silent Errors in Deep Learning Training with Automated Proactive Checks](https://www.usenix.org/conference/osdi25/presentation/jiang) (Required) |  |  |  |
 | Sep 23 | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152%20) (Required) | Sharvani, Shresth, Divya | Eric, John, Albert, Vishnu | Hui, Zesen, Boyuan |
@@ -80,19 +80,19 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Oct  2 | **Inference Basics** | Jae-Won |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
-| Oct  7 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | Wonbin, Roee, Rohit, Arnav | Patrick, Nathan, Hannah | Evan, Naveen, Pranavkumar, Anirudh |
+| Oct  7 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah | Evan, Naveen, Pranavkumar, Anirudh |
 |  | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) (Required) |  |  |  |
 | Oct  9 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan) (Required) | Eric, John, Albert, Vishnu | Yuewen, Dhanvi, Rudrajyoti, Haoran | Aaron, Uygur, Brandon |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Oct 14 | **Fall Study Break** |  |  |  |
-| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Hanning, Chimaobi, Alvaro | Arnav, Nishant, Muzhe, Yuxuan |
+| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Hanning, Chimaobi, Alvaro | Arnav Reddy, Nishant, Muzhe, Yuxuan |
 |  | Tentative: Cornserve (Required) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
 | Oct 28 | **No Lecture: Work on Projects** |  |  |  |
 | Oct 30 | [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) (Required) | Gary, Tongyuan, Annie, Kai Jun | Satyam, Arjun, Tanush, Kushal | Krithika, Kristine, Thomas |
 |  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://icml.cc/virtual/2023/oral/25565) (Required) |  |  |  |
-| Nov  4 | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283) (Required) | Arnav, Nishant, Muzhe, Yuxuan | Sharvani, Shresth, Divya | Satyam, Arjun, Tanush, Kushal |
+| Nov  4 | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283) (Required) | Arnav Reddy, Nishant, Muzhe, Yuxuan | Sharvani, Shresth, Divya | Satyam, Arjun, Tanush, Kushal |
 |  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) (Required) |  |  |  |
 |  | [Tempo: Application-aware LLM Serving with Mixed SLO Requirements](https://arxiv.org/abs/2504.20068) |  |  |  |
 |  | **Agentic Systems** |  |  |  |
@@ -101,7 +101,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 11 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | Evan, Naveen, Pranavkumar, Anirudh | Aaron, Uygur, Brandon | Sharvani, Shresth, Divya |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |
-| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | Yuewen, Dhanvi, Rudrajyoti, Haoran | Wonbin, Roee, Rohit, Arnav | Patrick, Nathan, Hannah |
+| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | Yuewen, Dhanvi, Rudrajyoti, Haoran | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) (Required) |  |  |  |
 |  | [Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences](https://dl.acm.org/doi/10.1145/3695053.3731409) |  |  |  |
 |  | [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) |  |  |  |
@@ -109,7 +109,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 18 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970) (Required) | Invited lecture by [Ruofan Wu](https://ruofan-wu.github.io/) |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
 |  | Tentative: Kareus |  |  |  |
-| Nov 20 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Yana, Sami, David | Hui, Zesen, Boyuan | Wonbin, Roee, Rohit, Arnav |
+| Nov 20 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Yana, Sami, David | Hui, Zesen, Boyuan | Wonbin, Roee, Rohit, Arnav Shah |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Wrap Up** |  |  |  |
 | Nov 25 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |

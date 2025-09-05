@@ -111,11 +111,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | Tentative: Kareus |  |  |  |
 | Nov 20 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Yana, Sami, David | Hui, Zesen, Boyuan | Wonbin, Roee, Rohit, Arnav |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
-|  | **Ethical Considerations** |  |  |  |
+|  | **Wrap Up** |  |  |  |
 | Nov 25 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |
 |  | [We Need a New Ethics for a World of AI Agents](https://www.nature.com/articles/d41586-025-02454-5) (Required) |  |  |  |
 | Nov 27 | **No Lecture: Thanksgiving Recess** |  |  |  |
-| Dec  2 | **Wrap Up** | Mosharaf |  |  |
+| Dec  2 | **No Lecture: Work on Posters** | |  |  |
 |  | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |  |  |  |
 | Dec  4 | **Final Poster Presentations** TBA | [Template](http://Resources/poster.pptx) |  |  |
 

@@ -136,8 +136,9 @@ They are optional for the rest of the class.
 The course will be conducted as a seminar. 
 Only one group will present in each class.
 Each group will be assigned *at least one lecture* over the course of the semester. 
-Presentations should last **at most 40 minutes** without interruption.
-However, presenters should expect questions and interruptions throughout. 
+Presentations should cover all required papers for that lecture.
+The duration of the presentation should be **at most 40 minutes** if there were no interruptions.
+Presenters should expect questions and interruptions throughout.
 
 In the presentation, you should:
 
@@ -151,8 +152,9 @@ In the presentation, you should:
 Use Google slides to enable in-line comments and suggestions.
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least one lectures**. 
+Each group will also be assigned to **write summaries for at least one lectures**.
 The summary assigned to a group will not be the reading they gave the lecture on.
+The group will write a summary for all presented papers (required readings) for that lecture.
 
 A paper summary must address the following four questions in sufficient details (2-3 pages):
 
@@ -181,7 +183,7 @@ This discussion will involve three distinct roles played by different student gr
 
 
 2. **The Reviewers**
-- Group Assignment: Each group will be assigned to one slot to play the role of reviewers.
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture.
 - Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
 Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 

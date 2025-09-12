@@ -61,7 +61,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |
 |  | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required) |  |  |  |
 |  | **Pre-Training** |  |  |  |
-| Sep 11 | [Pipeline Parallelism with Controllable Memory](https://proceedings.neurips.cc/paper_files/paper/2024/hash/527dad0b9159805289906d5740a0bdd3-Abstract-Conference.html) (Required) | Patrick, Nathan, Hannah | Letian, Terry, Fu-Shiang | Eric, John, Albert, Vishnu |
+| Sep 11 | [Pipeline Parallelism with Controllable Memory](https://proceedings.neurips.cc/paper_files/paper/2024/hash/527dad0b9159805289906d5740a0bdd3-Abstract-Conference.html) (Required) | [Patrick, Nathan, Hannah](Slides/091125-pnhalim-nyap-hyshu.pdf) | [Letian, Terry, Fu-Shiang](Summaries/091125-ruanlt-weiceica-fsyang.pdf) | Eric, John, Albert, Vishnu |
 |  | [Zero Bubble (Almost) Pipeline Parallelism](https://openreview.net/forum?id=tuzTN0eIO5) |  |  |  |
 |  | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng) (Required) |  |  |  |
 | Sep 16 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Aaron, Uygur, Brandon | Yana, Sami, David | Gary, Tongyuan, Annie, Kai Jun |

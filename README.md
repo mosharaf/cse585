@@ -49,13 +49,13 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
 |  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) |  |  |  |
-| Aug 28 | **Introduction to GenAI and Systems for GenAI** | [Jae-Won](Slides/082825-JWChung.pdf) |  |  |
+| Aug 28 | **Introduction to GenAI and Systems for GenAI** | [Jae-Won](Slides/082825-jwnchung.pdf) |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (Required) |  |  |  |
 | Sep  2 | **No Lecture: Find Project Groups** |  |  |  |
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
-| Sep  4 | **Distributed Training Basics** | [Jae-Won](Slides/090425-JWChung.pdf) |  |  |
+| Sep  4 | **Distributed Training Basics** | [Jae-Won](Slides/090425-jwnchung.pdf) |  |  |
 |  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |  |  |  |
 | Sep  9 | **No Lecture: Work on Project Proposals** |  |  |  |
 |  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |
@@ -64,7 +64,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Sep 11 | [Pipeline Parallelism with Controllable Memory](https://proceedings.neurips.cc/paper_files/paper/2024/hash/527dad0b9159805289906d5740a0bdd3-Abstract-Conference.html) (Required) | [Patrick, Nathan, Hannah](Slides/091125-pnhalim-nyap-hyshu.pdf) | [Letian, Terry, Fu-Shiang](Summaries/091125-ruanlt-weiceica-fsyang.pdf) | Eric, John, Albert, Vishnu |
 |  | [Zero Bubble (Almost) Pipeline Parallelism](https://openreview.net/forum?id=tuzTN0eIO5) |  |  |  |
 |  | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng) (Required) |  |  |  |
-| Sep 16 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Aaron, Uygur, Brandon | Yana, Sami, David | Gary, Tongyuan, Annie, Kai Jun |
+| Sep 16 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | [Aaron, Uygur, Brandon](Slides/091625-aaronbar-tepe-bchao.pdf) | [Yana, Sami, David](Summaries/091625-samiuf-dmcde-yrpatel.pdf) | Gary, Tongyuan, Annie, Kai Jun |
 |  | [PartIR: Composing SPMD Partitioning Strategies for Machine Learning](https://dl.acm.org/doi/10.1145/3669940.3707284) (Required) |  |  |  |
 | Sep 18 | [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) | Satyam, Arjun, Tanush, Kushal | Arnav Reddy, Nishant, Muzhe, Yuxuan | Yuewen, Dhanvi, Rudrajyoti, Haoran |
 |  | [SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation](https://www.usenix.org/conference/atc24/presentation/xiong) (Required) |  |  |  |

@@ -72,7 +72,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Sep 23 | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) | [Sharvani, Shresth, Divya](Slides/092325-sharvani-shresth-shdivya.pdf) | [Eric, John, Albert, Vishnu](Summaries/092325-zhaoeric-johnxie-caoalb-vishnuka.pdf) | Hui, Zesen, Boyuan |
 |  | [Tenplex: Dynamic Parallelism for Deep Learning using Parallelizable Tensor Collections](https://dl.acm.org/doi/10.1145/3694715.3695975) (Required) |  |  |  |
 |  | **Post-Training** |  |  |  |
-| Sep 25 | [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314) (Required) | Krithika, Kristine, Thomas | Evan, Naveen, Pranavkumar, Anirudh | Letian, Terry, Fu-Shiang |
+| Sep 25 | [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314) (Required) | [Krithika, Kristine, Thomas](Slides/092525-krithiv-ksmcl-mperform.pdf) | [Evan, Naveen, Pranavkumar, Anirudh](Summaries/092525-anikrish-evanzimm-naveenu-pmallela.pdf) | Letian, Terry, Fu-Shiang |
 |  | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required) |  |  |  |
 | Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | Esha, Chimaobi, Alvaro | Gary, Tongyuan, Annie, Kai Jun | Yana, Sami, David |
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |

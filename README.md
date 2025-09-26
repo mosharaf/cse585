@@ -74,7 +74,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | **Post-Training** |  |  |  |
 | Sep 25 | [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314) (Required) | Krithika, Kristine, Thomas | Evan, Naveen, Pranavkumar, Anirudh | Letian, Terry, Fu-Shiang |
 |  | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required) |  |  |  |
-| Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | Esha, Hanning, Chimaobi, Alvaro | Gary, Tongyuan, Annie, Kai Jun | Yana, Sami, David |
+| Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | Esha, Chimaobi, Alvaro | Gary, Tongyuan, Annie, Kai Jun | Yana, Sami, David |
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |
 |  | **Inference** |  |  |  |
 | Oct  2 | **Inference Basics** | Jae-Won |  |  |
@@ -85,7 +85,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Oct  9 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan) (Required) | Eric, John, Albert, Vishnu | Yuewen, Dhanvi, Rudrajyoti, Haoran | Aaron, Uygur, Brandon |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Oct 14 | **Fall Study Break** |  |  |  |
-| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Hanning, Chimaobi, Alvaro | Arnav Reddy, Nishant, Muzhe, Yuxuan |
+| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Chimaobi, Alvaro | Arnav Reddy, Nishant, Muzhe, Yuxuan |
 |  | Tentative: Cornserve (Required) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
@@ -96,7 +96,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) (Required) |  |  |  |
 |  | [Tempo: Application-aware LLM Serving with Mixed SLO Requirements](https://arxiv.org/abs/2504.20068) |  |  |  |
 |  | **Agentic Systems** |  |  |  |
-| Nov  6 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | Hui, Zesen, Boyuan | Krithika, Kristine, Thomas | Esha, Hanning, Chimaobi, Alvaro |
+| Nov  6 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | Hui, Zesen, Boyuan | Krithika, Kristine, Thomas | Esha, Chimaobi, Alvaro |
 |  | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) (Required) |  |  |  |
 | Nov 11 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | Evan, Naveen, Pranavkumar, Anirudh | Aaron, Uygur, Brandon | Sharvani, Shresth, Divya |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required) |  |  |  |

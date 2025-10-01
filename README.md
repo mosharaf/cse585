@@ -74,7 +74,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | **Post-Training** |  |  |  |
 | Sep 25 | [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314) (Required) | [Krithika, Kristine, Thomas](Slides/092525-krithiv-ksmcl-mperform.pdf) | [Evan, Naveen, Pranavkumar, Anirudh](Summaries/092525-anikrish-evanzimm-naveenu-pmallela.pdf) | Letian, Terry, Fu-Shiang |
 |  | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required) |  |  |  |
-| Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | Esha, Chimaobi, Alvaro | Gary, Tongyuan, Annie, Kai Jun | Yana, Sami, David |
+| Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | [Esha, Chimaobi, Alvaro](Slides/093025-munagala-cokite-alvarovh.pdf) | [Gary, Tongyuan, Annie, Kai Jun](Summaries/093025-ioi-tymiao-annij-kaijun.pdf) | Yana, Sami, David |
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |
 |  | **Inference** |  |  |  |
 | Oct  2 | **Inference Basics** | Jae-Won |  |  |

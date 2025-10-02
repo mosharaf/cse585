@@ -77,7 +77,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Sep 30 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) | [Esha, Chimaobi, Alvaro](Slides/093025-munagala-cokite-alvarovh.pdf) | [Gary, Tongyuan, Annie, Kai Jun](Summaries/093025-ioi-tymiao-annij-kaijun.pdf) | Yana, Sami, David |
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |
 |  | **Inference** |  |  |  |
-| Oct  2 | **Inference Basics** | Jae-Won |  |  |
+| Oct  2 | **Inference Basics** | [Jae-Won](Slides/100225-jwnchung.pdf) |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
 | Oct  7 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah | Evan, Naveen, Pranavkumar, Anirudh |

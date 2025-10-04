@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Oct 14 | **Fall Study Break** |  |  |  |
 | Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Chimaobi, Alvaro | Arnav Reddy, Nishant, Muzhe, Yuxuan |
-|  | Tentative: Cornserve (Required) |  |  |  |
+|  | Cornserve (Required, See Ed for preprint) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
 | Oct 28 | **No Lecture: Work on Projects** |  |  |  |
@@ -108,7 +108,6 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | **Power and Energy Management** |  |  |  |
 | Nov 18 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970) (Required) | Invited lecture by [Ruofan Wu](https://ruofan-wu.github.io/) |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
-|  | Tentative: Kareus |  |  |  |
 | Nov 20 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Yana, Sami, David | Hui, Zesen, Boyuan | Wonbin, Roee, Rohit, Arnav Shah |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Wrap Up** |  |  |  |

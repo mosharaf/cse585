@@ -80,7 +80,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Oct  2 | **Inference Basics** | [Jae-Won](Slides/100225-jwnchung.pdf) |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
-| Oct  7 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah | Evan, Naveen, Pranavkumar, Anirudh |
+| Oct  7 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | [Wonbin, Roee, Rohit, Arnav Shah](Slides/100725-wbjin-roeee-rohitsar-sarnav.pdf) | [Patrick, Nathan, Hannah](Summaries/100725-pnhalim-nyap-hyshu.pdf) | Evan, Naveen, Pranavkumar, Anirudh |
 |  | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) (Required) |  |  |  |
 | Oct  9 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan) (Required) | Eric, John, Albert, Vishnu | Yuewen, Dhanvi, Rudrajyoti, Haoran | Aaron, Uygur, Brandon |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
@@ -101,7 +101,8 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 11 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | Evan, Naveen, Pranavkumar, Anirudh | Aaron, Uygur, Brandon | Sharvani, Shresth, Divya |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |
-| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | Yuewen, Dhanvi, Rudrajyoti, Haoran | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah |
+| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) | Yuewen, Dhanvi, Rudrajyoti, Haoran | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah |
+|  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) (Required) |  |  |  |
 |  | [Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences](https://dl.acm.org/doi/10.1145/3695053.3731409) |  |  |  |
 |  | [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) |  |  |  |

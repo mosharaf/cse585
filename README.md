@@ -85,8 +85,8 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Oct  9 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan) (Required) | [Eric, John, Albert, Vishnu](Slides/100925-zhaoeric-johnxie-caoalb-vishnuka.pdf) | [Yuewen, Dhanvi, Rudrajyoti, Haoran](Summaries/100925-isaachyw-allenjin-dhanvib-rudraroy.pdf) | Aaron, Uygur, Brandon |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Oct 14 | **Fall Study Break** |  |  |  |
-| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | Letian, Terry, Fu-Shiang | Esha, Chimaobi, Alvaro | Arnav Reddy, Nishant, Muzhe, Yuxuan |
-|  | Cornserve (Required, See Ed for preprint) |  |  |  |
+| Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | [Letian, Terry, Fu-Shiang](Slides/101625-ruanlt-fsyang-weiceica.pdf) | [Esha, Chimaobi, Alvaro](Summaries/101625-munagala-cokite-alvarovh.pdf) | Arnav Reddy, Nishant, Muzhe, Yuxuan |
+|  | Cornserve (Required) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
 | Oct 28 | [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) (Required) | Gary, Tongyuan, Annie, Kai Jun | Satyam, Arjun, Tanush, Kushal | Krithika, Kristine, Thomas |

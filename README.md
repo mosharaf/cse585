@@ -89,7 +89,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | Cornserve (Required) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
-| Oct 28 | [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) (Required) | Gary, Tongyuan, Annie, Kai Jun | Satyam, Arjun, Tanush, Kushal | Krithika, Kristine, Thomas |
+| Oct 28 | [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) (Required) | [Gary, Tongyuan, Annie, Kai Jun](Slides/102825-ioi-tymiao-annij-kaijun.pdf) | [Satyam, Arjun, Tanush, Kushal](Summaries/102825-sagoyal-arlx-tmittal-patelku.pdf) | Krithika, Kristine, Thomas |
 |  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://icml.cc/virtual/2023/oral/25565) (Required) |  |  |  |
 | Oct 30 | **No Lecture: Work on Projects** |  |  |  |
 | Nov  4 | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283) (Required) | Arnav Reddy, Nishant, Muzhe, Yuxuan | Sharvani, Shresth, Divya | Satyam, Arjun, Tanush, Kushal |

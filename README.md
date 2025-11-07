@@ -96,7 +96,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) (Required) |  |  |  |
 |  | [Tempo: Application-aware LLM Serving with Mixed SLO Requirements](https://arxiv.org/abs/2504.20068) |  |  |  |
 |  | **Agentic Systems** |  |  |  |
-| Nov  6 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | Hui, Zesen, Boyuan | Krithika, Kristine, Thomas | Esha, Chimaobi, Alvaro |
+| Nov  6 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | [Hui, Zesen, Boyuan](slides/110625-huishen-hymanzzs-boyuann.pdf) | [Krithika, Kristine, Thomas](Summaries/110625-krithiv-ksmcl-mperform.pdf) | Esha, Chimaobi, Alvaro |
 |  | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) (Required) |  |  |  |
 | Nov 11 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | Evan, Naveen, Pranavkumar, Anirudh | Aaron, Uygur, Brandon | Sharvani, Shresth, Divya |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required) |  |  |  |

@@ -117,7 +117,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 27 | **No Lecture: Thanksgiving Recess** |  |  |  |
 | Dec  2 | **No Lecture: Work on Posters** | |  |  |
 |  | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |  |  |  |
-| Dec  4 | **Final Poster Presentations** TBA | [Template](http://Resources/poster.pptx) |  |  |
+| Dec  3 | **Final Poster Presentations** (10 AM - 12 PM, Tishman hall) | [Template](http://Resources/poster.pptx) |  |  |
 
 ## Policies
 

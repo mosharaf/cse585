@@ -101,7 +101,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Nov 11 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | [Evan, Naveen, Pranavkumar, Anirudh](Slides/111125-anikrish-evanzimm-naveenu-pmallela.pdf) | [Aaron, Uygur, Brandon](Summaries/111125-aaronbar-tepe-bchao.pdf) | Sharvani, Shresth, Divya |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) (Required) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |
-| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) | Yuewen, Dhanvi, Rudrajyoti, Haoran | Wonbin, Roee, Rohit, Arnav Shah | Patrick, Nathan, Hannah |
+| Nov 13 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) | [Yuewen, Dhanvi, Rudrajyoti, Haoran])(Slides/111325-isaachyw-dhanvib-rudraroy-allenjin.pdf) | [Wonbin, Roee, Rohit, Arnav Shah](Summaries/111325-wbjin-roeee-rohitsar-sarnav.pdf) | Patrick, Nathan, Hannah |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) (Required) |  |  |  |
 |  | [Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences](https://dl.acm.org/doi/10.1145/3695053.3731409) |  |  |  |

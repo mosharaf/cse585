@@ -37,6 +37,12 @@ To ensure the availability of your cluster, we recommend that you apply for a re
 
 ![Screenshot-ReserveNodes](./reserve.png)
 
+Note that reservations take a couple (or sometimes tens of) minutes to actually become available. An experiment scheduled exactly at the reservation start time might fail to start with a "node unavailable" error. If this happens, you want to keep polling experiment creation for a while until nodes become available, and if it never works out, reach out to the CloudLab admins for help.
+
+## Getting Help
+
+If any problems arise when using CloudLab, you can reach out to the admins at: https://groups.google.com/d/forum/cloudlab-users
+
 ## Policies on Using CloudLab Resources
 1. The nodes you receive from CloudLab are real hardware machines sitting in different clusters. Therefore, we ask you not to hold the nodes for too long. CloudLab gives users 16 hours to start with, and users can extend it for a longer time. Manage your time efficiently and only hold onto those nodes when you are working on the assignment. You should use a private git repository to manage your code, and you must terminate the nodes when you are not using them. If you do have a need to extend the nodes, do not extend them by more than 1 day. **We will terminate any cluster running for more than 48 hours.**
 2. As a member of the `Michigan-BigData` project, you have permissions to access another member's private user space. **Stick to your own space and do not access others' to peek at/copy/use their code, or intentionally/unintentionally overwriting files in others' workspaces.** For more information related to this, please refer to the [Umich Engineering Honor Code](https://ecas.engin.umich.edu/honor-council/). 

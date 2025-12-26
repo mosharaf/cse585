@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Oct 14 | **Fall Study Break** |  |  |  |
 | Oct 16 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | [Letian, Terry, Fu-Shiang](Slides/101625-ruanlt-fsyang-weiceica.pdf) | [Esha, Chimaobi, Alvaro](Summaries/101625-munagala-cokite-alvarovh.pdf) | Arnav Reddy, Nishant, Muzhe, Yuxuan |
-|  | Cornserve (Required) |  |  |  |
+|  | [Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098) (Required) |  |  |  |
 | Oct 21 | **Mid-Semester Presentations** |  |  |  |
 | Oct 23 | **Mid-Semester Presentations** |  |  |  |
 | Oct 28 | [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) (Required) | [Gary, Tongyuan, Annie, Kai Jun](Slides/102825-ioi-tymiao-annij-kaijun.pdf) | [Satyam, Arjun, Tanush, Kushal](Summaries/102825-sagoyal-arlx-tmittal-patelku.pdf) | Krithika, Kristine, Thomas |

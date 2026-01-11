@@ -50,7 +50,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Jan 13 | **Introduction** | Mosharaf |  |  |
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
-|  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) (Required) |  |  |  |
+|  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) (Required) |  |  |  |
 | Jan 15 | **Systems for AI Basics** | Shiqi |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) |  |  |  |
@@ -78,6 +78,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Feb 10 | **Inference Basics** | Shiqi |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
+|  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) |  |  |  |
 | Feb 12 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) |  |  |  |
 |  | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) (Required) |  |  |  |
 | Feb 17 | **No Lecture: Work on Projects** |  |  |  |

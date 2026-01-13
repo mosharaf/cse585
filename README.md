@@ -11,7 +11,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4156 LEIN. **By appointments only.**
-| [Shiqi He](https://tctower.github.io/) (shiqihe) | GSI | TBA
+| [Shiqi He](https://tctower.github.io/) (shiqihe) | GSI | 1637 BBB. Wed 4:00 PM – 6:00 PM.
 
 ### Communication
 **ALL** communication regarding this course must be via [Ed](https://edstem.org/us/join/99Gwqq).

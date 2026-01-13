@@ -47,7 +47,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Jan 8 | **No Lecture: Find Project Groups** |  |  |  |
 |  | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required) |  |  |  |
 |  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
-| Jan 13 | **Introduction** | Mosharaf |  |  |
+| Jan 13 | **Introduction** | [Mosharaf](Slides/011326-MChowdhury.pdf) |  |  |
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
 |  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) (Required) |  |  |  |

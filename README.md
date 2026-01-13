@@ -193,7 +193,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
  
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit](TBA) **one insightful question** for each presented paper before each class. 
+  - You are required to [submit](https://docs.google.com/forms/d/e/1FAIpQLSf2Rzk2qcG3e5YsUFY9BmYTS2Vwy2w6Rj2XQfcHYCDwOaV8rw/viewform?usp=header) **one insightful question** for each presented paper before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
 
 ### Participation
@@ -211,7 +211,7 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group and [declare your group's membership and paper preferences](TBA) by **January 23**. After this date, we will form groups from the remaining students.
+* Form a group and [declare your group's membership and paper preferences](https://docs.google.com/forms/d/e/1FAIpQLSe46GejPTulNCZO9q7CRaAJsIQJT0ZesRKlNC2zNIAKWmQxSA/viewform?usp=header) by **January 23**. After this date, we will form groups from the remaining students.
 * Turn in a 2-page draft proposal (including references) by **February 6**. Remember to include the names and Michigan email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **March 17 and March 19**.
 * Each group must turn in an 8-page final report and your code via email **on or before 1:00PM EST on April 28.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code.

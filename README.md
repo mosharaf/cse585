@@ -51,7 +51,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455) (Required) |  |  |  |
 |  | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2\) |  |  |  |
 |  | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) (Required) |  |  |  |
-| Jan 15 | **Systems for AI Basics** | Shiqi |  |  |
+| Jan 15 | **Systems for AI Basics** | [Shiqi](Slides/011526-shiqihe.pdf) |  |  |
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) |  |  |  |
 |  | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741) (Required) |  |  |  |

@@ -55,7 +55,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
 |  | [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) |  |  |  |
 |  | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741) (Required) |  |  |  |
-| Jan  20 | **Distributed Training Basics** | Shiqi |  |  |
+| Jan  20 | **Distributed Training Basics** | [Shiqi](Slides/012026-shiqihe.pdf) |  |  |
 |  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |  |  |  |
 | Jan 22 | **No Lecture: Work on Project Proposals** |  |  |  |
 |  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |

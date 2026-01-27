@@ -61,7 +61,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |
 |  | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required) |  |  |  |
 |  | **Pre-Training** |  |  |  |
-| Jan 27 | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng) (Required) |  Rohan, Archit, Divya, Maaz |  Joshua, Rishith, Olaf, Jimmy |  Anika, Joshua, Namita, Nandana |
+| Jan 27 | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng) (Required) |  [Rohan, Archit, Divya, Maaz](Slides/012726-Rohan-Archit-Divya-Maaz.pdf) |  [Joshua, Rishith, Olaf, Jimmy](Summaries/012726-Joshua-Rishith-Olaf-Jimmy.pdf) |  Anika, Joshua, Namita, Nandana |
 |  | [Zero Bubble (Almost) Pipeline Parallelism](https://openreview.net/forum?id=tuzTN0eIO5) (Required) |  |  |  |
 | Jan 29 | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) |  Adam, Qilong, Yung-Hao, Zhe | Yiqun, Yicheng, Yihang, Xiangchen | Evan, Frank, Madeleine, Alan |
 |  | [PartIR: Composing SPMD Partitioning Strategies for Machine Learning](https://dl.acm.org/doi/10.1145/3669940.3707284) |  |  |  |

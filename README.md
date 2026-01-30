@@ -110,7 +110,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) |  |  |  |
 |  | **Power and Energy Management** |  |  |  |
 | Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  Marie, Emily, Haripreeth, Pritesh | Vansh, Pranav, Anshul, Shrey | Rohan, Archit, Divya, Maaz |
-|  | Kareus (Required) |  |  |  |
+|  | [Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training](https://arxiv.org/abs/2601.17654) (Required) |  |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
 | Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe | Marie, Emily, Haripreeth, Pritesh |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |

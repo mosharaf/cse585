@@ -67,7 +67,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [PartIR: Composing SPMD Partitioning Strategies for Machine Learning](https://dl.acm.org/doi/10.1145/3669940.3707284) |  |  |  |
 |  | [FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models](https://dl.acm.org/doi/10.1145/3669940.3707272) (Required) |  |  |  |
 |  | [FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement](https://dl.acm.org/doi/abs/10.1145/3588964) |  |  |  |
-| Feb 3 | [TrainVerify: Equivalence-Based Verification for Distributed LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764850) (Required) | [Matthew, Madison, Minkyu, Kevin](Slides/020326-Matthew-Madison-Minkyu-Kevin.pdf) | Ajay, Allison, Jamal, Tejas | Shivam, Aman, Leonard, Dimash |
+| Feb 3 | [TrainVerify: Equivalence-Based Verification for Distributed LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764850) (Required) | [Matthew, Madison, Minkyu, Kevin](Slides/020326-Matthew-Madison-Minkyu-Kevin.pdf) | [Ajay, Allison, Jamal, Tejas](Summaries/020326-Ajay-Allison-Jamal-Tejas.pdf) | Shivam, Aman, Leonard, Dimash |
 |  | [SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation](https://www.usenix.org/conference/atc24/presentation/xiong) |  |  |  |
 |  | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |  |  |  |
 |  | **Post-Training** |  |  |  |

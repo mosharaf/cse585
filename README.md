@@ -212,7 +212,7 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
 * Form a group and [declare your group's membership and paper preferences](https://docs.google.com/forms/d/e/1FAIpQLSe46GejPTulNCZO9q7CRaAJsIQJT0ZesRKlNC2zNIAKWmQxSA/viewform?usp=header) by **January 23**. After this date, we will form groups from the remaining students.
-* Turn in a 2-page draft proposal (including references) by **February 6**. Remember to include the names and Michigan email addresses of the group members. 
+* Turn in a 2-page draft proposal (including references) by **February 6**. Remember to include the names and Michigan email addresses of the group members. You may submit the project proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSd1tBj2B6ErcVtouJWmOoK8K19KS2naR7JmWbpT_DhVty94pA/viewform?usp=dialog).
 * Each group must present mid-semester progress during class hours on **March 17 and March 19**.
 * Each group must turn in an 8-page final report and your code via email **on or before 1:00PM EST on April 28.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code.
 * You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).

@@ -71,7 +71,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation](https://www.usenix.org/conference/atc24/presentation/xiong) |  |  |  |
 |  | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |  |  |  |
 |  | **Post-Training** |  |  |  |
-| Feb 5 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) | [Joshua, Rishith, Olaf, Jimmy](Slides/020526-Joshua-Rishith-Olaf-Jimmy.pdf) | Rohan, Archit, Divya, Maaz | Yiqun, Yicheng, Yihang, Xiangchen |
+| Feb 5 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) | [Joshua, Rishith, Olaf, Jimmy](Slides/020526-Joshua-Rishith-Olaf-Jimmy.pdf) | [Rohan, Archit, Divya, Maaz](Summaries/020526-Rohan-Archit-Divya-Maaz.pdf) | Yiqun, Yicheng, Yihang, Xiangchen |
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |
 |  | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required) |  |  |  |
 |  | **Inference** |  |  |  |

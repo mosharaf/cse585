@@ -75,7 +75,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) (Required) |  |  |  |
 |  | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required) |  |  |  |
 |  | **Inference** |  |  |  |
-| Feb 10 | **Inference Basics** | Shiqi |  |  |
+| Feb 10 | **Inference Basics** | [Shiqi](Slides/021026-shiqihe.pdf) |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
 |  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) |  |  |  |

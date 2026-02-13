@@ -79,7 +79,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required) |  |  |  |
 |  | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |  |  |  |
 |  | [On Evaluating Performance of LLM Inference Serving Systems](https://arxiv.org/abs/2507.09019) |  |  |  |
-| Feb 12 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | [Anika, Joshua, Namita, Nandana](Slides/021226-Anika-Joshua-Namita-Nandana.pdf) | Jingjing, Yile, Zhengqing, Barry | Shruti, Srikrishnan, Nikhil, Pranav |
+| Feb 12 | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) (Required) | [Anika, Joshua, Namita, Nandana](Slides/021226-Anika-Joshua-Namita-Nandana.pdf) | [Jingjing, Yile, Zhengqing, Barry](Summaries/021226-Jingjing-Yile-Zhengqing-Barry.pdf) | Shruti, Srikrishnan, Nikhil, Pranav |
 |  | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) (Required) |  |  |  |
 | Feb 17 | **No Lecture: Work on Projects** |  |  |  |
 | Feb 19 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://www.usenix.org/conference/osdi25/presentation/zhu-kan) (Required) | Evan, Frank, Madeleine, Alan | Matthew, Madison, Minkyu, Kevin | Tea, Nidhil, Dillan |

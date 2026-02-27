@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 | Feb 24 | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) (Required) | [Shivam, Aman, Leonard, Dimash](Slides/022426-Shivam-Aman-Leonard-Dimash.pdf) | [Kidus, Blake, Torence, Ethan](Summaries/022426-Kidus-Blake-Torence-Ethan.pdf) | Ajay, Allison, Jamal, Tejas |
 |  | [MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism](https://arxiv.org/abs/2504.02263) (Required) |  |  |  |
-| Feb 26 | [Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098) (Required) | [Jingjing, Yile, Zhengqing, Barry](Slides/022626-Jingjing-Yile-Zhengqing-Barry.pdf) | Anika, Joshua, Namita, Nandana | Vansh, Pranav, Anshul, Shrey |
+| Feb 26 | [Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098) (Required) | [Jingjing, Yile, Zhengqing, Barry](Slides/022626-Jingjing-Yile-Zhengqing-Barry.pdf) | [Anika, Joshua, Namita, Nandana](Summaries/022626-Anika-Joshua-Namita-Nandana.pdf) | Vansh, Pranav, Anshul, Shrey |
 |  | [TetriServe: Efficient DiT Serving for Heterogeneous Image Generation](https://arxiv.org/abs/2510.01565) |  |  |  |
 |  | [Approximate Caching for Efficiently Serving Diffusion Models](https://www.usenix.org/conference/nsdi24/presentation/agarwal-shubham) (Required) |  |  |  |
 | Mar 10 | **No Lecture: Work on Presentations** |  |  |  |

@@ -90,7 +90,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [TetriServe: Efficient DiT Serving for Heterogeneous Image Generation](https://arxiv.org/abs/2510.01565) |  |  |  |
 |  | [Approximate Caching for Efficiently Serving Diffusion Models](https://www.usenix.org/conference/nsdi24/presentation/agarwal-shubham) (Required) |  |  |  |
 | Mar 10 | **No Lecture: Work on Presentations** |  |  |  |
-| Mar 12 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) (Required) | [Kidus, Blake, Torence, Ethan](Slides/031226-Kidus-Blake-Torence-Ethan.pdf) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe |
+| Mar 12 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) (Required) | [Kidus, Blake, Torence, Ethan](Slides/031226-Kidus-Blake-Torence-Ethan.pdf) | [Shruti, Srikrishnan, Nikhil, Pranav](Summaries/031226-Shruti-Srikrishnan-Nikhil-Pranav.pdf) | Adam, Qilong, Yung-Hao, Zhe |
 |  | [ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation](https://openreview.net/forum?id=anZWBeWnWh) (Required) |  |  |  |
 |  | [Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity](https://arxiv.org/abs/2502.01776) |  |  |  |
 | Mar 17 | **Mid-Semester Presentations** |  |  |  |

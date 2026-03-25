@@ -96,7 +96,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Mar 17 | **Mid-Semester Presentations** |  |  |  |
 | Mar 19 | **Mid-Semester Presentations** |  |  |  |
 |  | **Agentic AI Systems** |  |  |  |
-| Mar 24 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | Ajay, Allison, Jamal, Tejas | Tea, Nidhil, Dillan | Joshua, Rishith, Olaf, Jimmy |
+| Mar 24 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) | [Ajay, Allison, Jamal, Tejas](Slides/032426-Ajay-Allison-Jamal-Tejas.pdf) | [Tea, Nidhil, Dillan](Summaries/032426-Tea-Nidhil-Dillan.pdf) | Joshua, Rishith, Olaf, Jimmy |
 |  | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/abs/10.1145/3731569.3764814) (Required) |  |  |  |
 |  | [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://arxiv.org/abs/2508.18298)  |  |  |  |
 | Mar 26 | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) (Required) | Yiqun, Yicheng, Yihang, Xiangchen | Shivam, Aman, Leonard, Dimash | Matthew, Madison, Minkyu, Kevin |

@@ -105,14 +105,14 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [HedraRAG: Co-Optimizing Generation and Retrieval for Heterogeneous RAG Workflows](https://dl.acm.org/doi/10.1145/3731569.3764806) (Required) |  |  |  |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |
-| Apr 2 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | Vansh, Pranav, Anshul, Shrey | Marie, Emily, Haripreeth, Pritesh | Kidus, Blake, Torence, Ethan |
+| Apr 2 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | Vansh, Pranav, Anshul, Shrey | Marie, Emily | Kidus, Blake, Torence, Ethan |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) |  |  |  |
 |  | **Power and Energy Management** |  |  |  |
-| Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  Marie, Emily, Haripreeth, Pritesh | Vansh, Pranav, Anshul, Shrey | Rohan, Archit, Divya, Maaz |
+| Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  Marie, Emily | Vansh, Pranav, Anshul, Shrey | Rohan, Archit, Divya, Maaz |
 |  | [Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training](https://arxiv.org/abs/2601.17654) (Required) |  |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
-| Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe | Marie, Emily, Haripreeth, Pritesh |
+| Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe | Marie, Emily |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Wrap Up** |  |  |  |
 | Apr 14 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |

@@ -119,7 +119,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [We Need a New Ethics for a World of AI Agents](https://www.nature.com/articles/d41586-025-02454-5) (Required) |  |  |  |
 | Apr 16 | **No Lecture: Work on Posters** |  |  |  |
 |  | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |  |  |  |
-| Apr 21 | **Final Poster Presentations** **(TBA)** | [Template](http://Resources/poster.pptx) |  |  |
+| Apr 21 | **Final Poster Presentations** </br> (10 AM - 12 PM, Tishman hall) | [Template](http://Resources/poster.pptx) |  |  |
 
 
 ## Policies

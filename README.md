@@ -101,7 +101,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://arxiv.org/abs/2508.18298)  |  |  |  |
 | Mar 26 | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) (Required) | [Yiqun, Yicheng, Yihang, Xiangchen](Slides/032626-Yiqun-Yicheng-Yihang-Xiangchen.pdf) | [Shivam, Aman, Leonard, Dimash](Summaries/032626-Shivam-Aman-Leonard-Dimash.pdf) | Matthew, Madison, Minkyu, Kevin |
 |  | [AVA: Towards Agentic Video Analytics with Vision Language Models](https://arxiv.org/abs/2505.00254) (Required) |  |  |  |
-| Mar 31 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | [Tea, Nidhil, Dillan](Slides/033126-Tea-Nidhil-Dillan.pdf) | Evan, Frank, Madeleine, Alan | Jingjing, Yile, Zhengqing, Barry |
+| Mar 31 | [METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](https://arxiv.org/abs/2412.10543) (Required) | [Tea, Nidhil, Dillan](Slides/033126-Tea-Nidhil-Dillan.pdf) | [Evan, Frank, Madeleine, Alan](Summaries/033126-Evan-Frank-Madeleine-Alan.pdf) | Jingjing, Yile, Zhengqing, Barry |
 |  | [HedraRAG: Co-Optimizing Generation and Retrieval for Heterogeneous RAG Workflows](https://dl.acm.org/doi/10.1145/3731569.3764806) (Required) |  |  |  |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |

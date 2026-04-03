@@ -105,7 +105,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [HedraRAG: Co-Optimizing Generation and Retrieval for Heterogeneous RAG Workflows](https://dl.acm.org/doi/10.1145/3731569.3764806) (Required) |  |  |  |
 |  | [Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining) |  |  |  |
 |  | **Hardware / Infrastructure** |  |  |  |
-| Apr 2 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | [Vansh, Pranav, Anshul, Shrey](Slides/040226-Vansh-Pranav-Anshul-Shrey.pdf) | Marie, Emily | Kidus, Blake, Torence, Ethan |
+| Apr 2 | [WaferLLM: Large Language Model Inference at Wafer Scale](https://www.usenix.org/conference/osdi25/presentation/he) (Required) | [Vansh, Pranav, Anshul, Shrey](Slides/040226-Vansh-Pranav-Anshul-Shrey.pdf) | [Marie, Emily](Summaries/040226-Marie-Emily.pdf) | Kidus, Blake, Torence, Ethan |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) |  |  |  |
 |  | **Power and Energy Management** |  |  |  |

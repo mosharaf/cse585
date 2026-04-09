@@ -109,7 +109,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://dl.acm.org/doi/10.1145/3695053.3731412) |  |  |  |
 |  | **Power and Energy Management** |  |  |  |
-| Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  Marie, Emily | Vansh, Pranav, Anshul, Shrey | Rohan, Archit, Divya, Maaz |
+| Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  [Marie, Emily](Slides/040726-Marie-Emily.pdf) | [Vansh, Pranav, Anshul, Shrey](Summaries/040726-Vansh-Pranav-Anshul-Shrey.pdf) | Rohan, Archit, Divya, Maaz |
 |  | [Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training](https://arxiv.org/abs/2601.17654) (Required) |  |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
 | Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe | Marie, Emily |

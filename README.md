@@ -118,6 +118,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Apr 14 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |
 |  | [We Need a New Ethics for a World of AI Agents](https://www.nature.com/articles/d41586-025-02454-5) (Required) |  |  |  |
 | Apr 16 | **No Lecture: Work on Posters** |  |  |  |
+|  | [Creating an Effective Poster](https://docs.google.com/document/d/1gkUWgYMQ37kJ-Bu4wmcEi7x30ZEnmRw99ZMSUhZcQtI/preview) (Required) |  |  |  |
 |  | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |  |  |  |
 | Apr 21 | **Final Poster Presentations** </br> (10 AM - 12 PM, Tishman hall) | [Template](http://Resources/poster.pptx) |  |  |
 

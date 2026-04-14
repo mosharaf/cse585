@@ -112,7 +112,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Apr 7 | [Reducing Energy Bloat in Large Model Training](https://dl.acm.org/doi/10.1145/3694715.3695970)  |  [Marie, Emily](Slides/040726-Marie-Emily.pdf) | [Vansh, Pranav, Anshul, Shrey](Summaries/040726-Vansh-Pranav-Anshul-Shrey.pdf) | Rohan, Archit, Divya, Maaz |
 |  | [Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training](https://arxiv.org/abs/2601.17654) (Required) |  |  |  |
 |  | [TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms](https://dl.acm.org/doi/10.1145/3676641.3716025) (Required) |  |  |  |
-| Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | Shruti, Srikrishnan, Nikhil, Pranav | Adam, Qilong, Yung-Hao, Zhe | Marie, Emily |
+| Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | [Shruti, Srikrishnan, Nikhil, Pranav](Slides/040926-Shruti-Srikrishnan-Nikhil-Pranav.pdf) | [Adam, Qilong, Yung-Hao, Zhe](Summaries/040926-Adam-Qilong-Yung-Hao-Zhe.pdf) | Marie, Emily |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Wrap Up** |  |  |  |
 | Apr 14 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |

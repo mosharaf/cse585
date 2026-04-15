@@ -115,7 +115,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | Apr 9 | [Power Stabilization for AI Training Datacenters](https://arxiv.org/abs/2508.14318) (Required) | [Shruti, Srikrishnan, Nikhil, Pranav](Slides/040926-Shruti-Srikrishnan-Nikhil-Pranav.pdf) | [Adam, Qilong, Yung-Hao, Zhe](Summaries/040926-Adam-Qilong-Yung-Hao-Zhe.pdf) | Marie, Emily |
 |  | [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout?](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout) (Required) |  |  |  |
 |  | **Wrap Up** |  |  |  |
-| Apr 14 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | Mosharaf |  |  |
+| Apr 14 | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) | [Mosharaf](Slides/041426-MChowdhury.pdf) |  |  |
 |  | [We Need a New Ethics for a World of AI Agents](https://www.nature.com/articles/d41586-025-02454-5) (Required) |  |  |  |
 | Apr 16 | **No Lecture: Work on Posters** |  |  |  |
 |  | [Creating an Effective Poster](https://docs.google.com/document/d/1gkUWgYMQ37kJ-Bu4wmcEi7x30ZEnmRw99ZMSUhZcQtI/preview) (Required) |  |  |  |

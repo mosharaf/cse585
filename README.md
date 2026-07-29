@@ -2,6 +2,8 @@
 
 The following are all iterations of CSE 585 taught by Mosharaf Chowdhury at the University of Michigan. 
 
+* Fall 2026: Advanced Scalable Systems for Agentic AI 
+([Link](https://github.com/mosharaf/cse585/tree/f26))
 * Winter 2026: Advanced Scalable Systems for Agentic AI 
 ([Link](https://github.com/mosharaf/cse585/tree/w26))
 * Fall 2025: Advanced Scalable Systems for Generative AI 

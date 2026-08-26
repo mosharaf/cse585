@@ -1,44 +1,36 @@
 # Requirements for CSE 585 Paper Summary
-You are asked to submit a summary for the required papers in the lecture
-assigned to you. The summary should be submitted as a single Google Doc file,
-and you should email the summary to the instructor team at
-[cse585-staff@umich.edu](mailto:cse585-staff@umich.edu).
+You are asked to submit a summary for the required papers in the lecture assigned to you.
+The summary should be submitted as a single Google Doc file.
+Submit by emailing the summary to the instructor team at [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu).
 
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
 **Late summaries will not be counted.** 
 
-*Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
-
-Writing a summary for a research paper can be easily done with a
-one-sentence prompt to an AI chatbot nowadays. However, a meaningful
-summary has to reflect the thoughts of the summarizer, whether the summarizer is
-a human or AI. We ask you to write this kind of summary.
+Writing a summary for a research paper can be easily done with a one-sentence prompt to an AI chatbot nowadays.
+However, a meaningful summary has to reflect the thoughts of the summarizer, whether the summarizer is a human or AI.
+We ask you to write this kind of summary.
 
 Therefore, your summary should have three parts:
 
-Part 1 is a complete and unmodified transcript of your multi-turn
-conversation with any generative AI tool of your choice. You should state
-clearly the model (e.g., Claude Opus 5), tool (Claude web interface), and the
-date the conversation has taken place. In this conversation, you may ask the AI
-any questions regarding the paper. Be creative about the conversation to make it
-interesting. Some ideas include:
+Part 1 is a complete and unmodified transcript of your multi-turn conversation with any generative AI tool of your choice.
+You should state clearly the model (e.g., Claude Opus 5), tool (Claude web interface), and the date the conversation takes place.
+In this conversation, you may ask the AI any questions regarding the paper.
+Be creative about the conversation to make it interesting.
+Some ideas include:
 
 * Give the AI a short spec of how it will summarize the paper
-* Ask the AI detailed technical questions that you have trouble understanding
-  in the paper
+* Ask the AI detailed technical questions that you have trouble understanding in the paper
 * Ask it about the paper's relationship to another paper you have read
-* State that you dislike a specific aspect of the paper, and ask the AI's
-  opinion
+* State that you dislike a specific aspect of the paper, and ask the AI's opinion
 * Ask the AI's opinion about a question raised in the lecture
 
-Again, you should be creative and do not limit yourself to the above ideas. You
-are free to choose the number of sessions to have with the AI. Having both papers
-of the lecture in one session may stimulate the AI to make connections between
-them, while it may also pollute the AI's context window and give you verbose
-and unhelpful responses.
+Again, you should be creative and do not limit yourself to the above ideas.
+You are free to choose the number of sessions to have with the AI.
+Including both papers of the lecture in one session may stimulate the AI to make connections between them,
+while it may also pollute the AI's context window and give you verbose and unhelpful responses.
 
-Part 2 is your own summary to the papers in the lecture. Write in your own words
-about the following questions, and you should cover each in sufficient depth.
+Part 2 is your own summary to the papers in the lecture.
+Write in your own words about the following questions, covering each in sufficient depth:
 
 * What is the problem addressed in the lecture, and why is this problem important?
 * What is the state of related works in this topic?
@@ -46,21 +38,19 @@ about the following questions, and you should cover each in sufficient depth.
 * What is one (or more) drawback or limitation of the proposal?
 * What are potential directions for future research?
 
-Part 3 is a summary of all the questions and discussions happening in the
-lecture.
+Part 3 is a summary of all the questions and discussions happening in the lecture.
 
-Part 4 is a reflection on your conversation with the AI. You should include the
-following, citing concrete examples from the AI transcript:
+Part 4 is a reflection on your conversation with the AI.
+You should include the following, citing concrete examples from the AI transcript:
 * Did your AI give an accurate summary of the paper, did it make any mistakes?
-* Have you noticed the differences on the focus of your AI's summary versus what
-  the presenters highlighted?
-* When you ask the AI for a subjective opinion, do you think its response have a
-  point?
+* Have you noticed the differences on the focus of your AI's summary versus what the presenters highlighted?
+* When you ask the AI for a subjective opinion, do you think its response have a point?
 
-Note that Part 1 should be completely generated by the AI and pasted to your
-submission, while Part 2 and 3 must be written on your own. You may and are
-encouraged to use AI to assist you in those two parts, but you must cite
-how it has assisted you by providing a pointer to the relevant paragraphs in
-your Part 1 transcript. Part 4 must be fully in your own words. Using a
-different AI session or subagent to generate Part 2-4 is easily detectable, and
-is a waste of both your time and the time of any readers of your summary.
+**AI usage policy**:
+Part 1 should be completely generated by the AI and pasted to your submission,
+while Part 2 and 3 must be written on your own.
+You may and are encouraged to use AI to assist you in those two parts,
+but you must cite how it has assisted you by providing a pointer to the relevant paragraphs in your Part 1 transcript.
+Part 4 must be fully in your own words.
+Using a different AI session or subagent to generate Part 2-4 is easily detectable,
+and is a waste of both your time and the time of any readers of your summary.

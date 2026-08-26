@@ -239,7 +239,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 * Form a group and [declare your group's membership and paper preferences](TBA) by **September 14**. After this date, we will form groups from the remaining students.
 * Email a 2-page draft proposal (including references) by **September 30**. Remember to include the names and Michigan email addresses of the group members. 
-* Each group must present mid-semester progress during class hours on **October 26 and October 28**.
+* Each group must present mid-semester progress during class hours on **November 2 and November 4**.
 * Each group must turn in an 8-page final report and your code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code.
 * You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
 

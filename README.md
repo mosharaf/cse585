@@ -194,6 +194,8 @@ Each group will also be assigned to **write summaries for at least one lectures*
 The summary assigned to a group will not be the reading they gave the lecture on.
 The group will write a summary for all presented papers (required readings) for that lecture.
 
+
+
 A paper summary must address the following questions in sufficient details (2-3 pages):
 
 * What is the problem addressed in the lecture, and why is this problem important?

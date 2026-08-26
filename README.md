@@ -10,6 +10,7 @@ Important links:
 * [Ed](https://edstem.org/us/join/bPfM9H)
 * [Submitting pre-lecture questions](https://forms.gle/un95Dn7JAbMBKgGq5)
 * [Signing up for your group](https://forms.gle/LbhmSRLhdRQPGJdTA)
+* [Writing paper summaries](/Summaries/Requirement.md)
 * Emailing course staff: [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu)
 
 ### Team

@@ -6,6 +6,12 @@
 * Projects/Makeup: 1005 DOW, F 1:30 PM - 2:30 PM
 * Counts as: Software Breadth and Depth (PhD); Technical Elective and 500-Level (MS/E)
 
+Important links:
+* [Ed](https://edstem.org/us/join/bPfM9H)
+* [Submitting pre-lecture questions](https://forms.gle/un95Dn7JAbMBKgGq5)
+* [Signing up for your group](https://forms.gle/LbhmSRLhdRQPGJdTA)
+* Emailing course staff: [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu)
+
 ### Team
 
 | Member (uniqname) | Role | Office Hours |
@@ -238,7 +244,8 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group and [declare your group's membership and paper preferences](TBA) by **September 14**. After this date, we will form groups from the remaining students.
+* Form a group and [declare your group's membership and paper preferences](https://forms.gle/LbhmSRLhdRQPGJdTA) by **September 14**.
+After this date, we will form groups from the remaining students.
 * Email a 2-page draft proposal (including references) by **September 30**. Remember to include the names and Michigan email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **November 2 and November 4**.
 * Each group must turn in an 8-page final report and your code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code.

@@ -4,6 +4,11 @@ assigned to you. The summary should be submitted as a single Google Doc file,
 and you should email the summary to the instructor team at
 [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu).
 
+*The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
+**Late summaries will not be counted.** 
+
+*Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
+
 Writing a summary for a research paper can be easily done with a
 one-sentence prompt to an AI chatbot nowadays. However, a meaningful
 summary has to reflect the thoughts of the summarizer, whether the summarizer is

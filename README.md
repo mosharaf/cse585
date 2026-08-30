@@ -45,7 +45,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 
 | Date | Readings | Presenter | Summary | Reviewer |
 | :---- | :---- | :---- | :---- | :---- |
-| **Aug 31** | **Introduction** | Mosharaf |   |   |
+| **Aug 31** | **Introduction** | [Mosharaf](Slides/083126-MChowdhury.pdf) |   |   |
 |   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
 |   | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) (Required) |   |   |   |
 |   | [The Datacenter as a Computer](https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2\) |   |   |   |
@@ -102,11 +102,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/abs/2406.00059) |   |   |   |
 |  | [Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://openreview.net/pdf?id=n4V3MSqK77) |  |  |  |
 | **Oct 19** | **Fall Study Break** |  |  |  |
-| **Oct 21** | **Test-Time Compute as Resource Allocation** |  |  |  |
+| **Oct 21** | **No Lecture: Work on Presentations** |  |  |  |
+| **Oct 26** | **Test-Time Compute as Resource Allocation** |  |  |  |
 |   | [Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration](https://www.usenix.org/conference/osdi26/presentation/zhong) (Required) |  |  |  |
 |   | [Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://openreview.net/pdf?id=P0GOk5wslg) (Required) |  |  |  |
 |   | [Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://www.microsoft.com/en-us/research/publication/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-execution/) |  |  |  |
-| **Oct 26** | **No Lecture: Work on Presentations** |  |  |  |
 | **Oct 28** | **System Interfaces for Agents** |   |   |   |
 |   | [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://dl.acm.org/doi/10.1145/3767295.3803576) (Required) |   |   |   |
 |  | [Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://openreview.net/pdf?id=7NiATKcx1B) (Required) |  |  |  |

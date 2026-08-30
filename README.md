@@ -6,12 +6,18 @@
 * Projects/Makeup: 1005 DOW, F 1:30 PM - 2:30 PM
 * Counts as: Software Breadth and Depth (PhD); Technical Elective and 500-Level (MS/E)
 
+Important links:
+* [Ed](https://edstem.org/us/join/bPfM9H)
+* [Submitting pre-lecture questions](https://forms.gle/un95Dn7JAbMBKgGq5)
+* [Signing up for your group](https://forms.gle/LbhmSRLhdRQPGJdTA)
+* Emailing course staff: [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu)
+
 ### Team
 
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4156 LEIN. **By appointments only.**
-| [Kevin Xue](https://kevinrsx.github.io/) (kaiwenx) | GSI | TBA.
+| [Kevin Xue](https://kevinrsx.github.io/) (kaiwenx) | GSI | 4828 BBB, F 11:00 AM -12:00 PM.
 
 ### Communication
 **ALL** communication regarding this course must be via [Ed](https://edstem.org/us/join/bPfM9H).
@@ -168,7 +174,7 @@ The course will be conducted as a seminar.
 Only one group will present in each class.
 Each group will be assigned *at least one lecture* over the course of the semester. 
 Presentations should succinctly cover all required papers for that lecture.
-The duration of the presentation should be **at most 30 minutes** with short clarifying questions and interruptions.
+The duration of the presentation should be **at most 35 minutes** with short clarifying questions and interruptions.
 The rest of the lecture time will be dedicated toward discussion on the papers and the broader topic(s) covered by the papers.
 
 In the presentation, you should:
@@ -179,8 +185,9 @@ In the presentation, you should:
 * Explain the differences between related works.
 * Identify strengths and weaknesses of the required reading and propose directions of future research.
 
-*The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
-Use Google slides to enable in-line comments and suggestions.
+The instructor team will review and suggest improvements for the presentations before each lecture.
+Therefore, *the slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.*
+To enable suggestions, use Google Slides and allow the instructor team give in-line comments.
 
 ### Lecture Summaries
 Each group will also be assigned to **write summaries for at least one lectures**.
@@ -219,8 +226,8 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit](TBD) **one insightful question** for each presented paper before each class. 
-  - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
+  - You are required to [submit](https://forms.gle/un95Dn7JAbMBKgGq5) **one insightful question** for each presented paper before each class.
+  - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
 
 ### Participation
 Given the discussion-based nature of this course, participation is required both for your own understanding and to improve the overall quality of the course.
@@ -237,7 +244,8 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group and [declare your group's membership and paper preferences](TBA) by **September 14**. After this date, we will form groups from the remaining students.
+* Form a group and [declare your group's membership and paper preferences](https://forms.gle/LbhmSRLhdRQPGJdTA) by **September 14**.
+After this date, we will form groups from the remaining students.
 * Email a 2-page draft proposal (including references) by **September 30**. Remember to include the names and Michigan email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **November 2 and November 4**.
 * Each group must turn in an 8-page final report and your code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code.

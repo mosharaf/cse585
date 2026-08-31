@@ -58,7 +58,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba](https://www.usenix.org/conference/osdi26/presentation/li-suyi) |   |   |   |
 | **Sep 2** | **No Class: Find Project Groups** |   |   |   |
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
-|   | [How to Give a Bad Talk](https://people.eecs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |   |   |   |
+|   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 | **Sep 7** | **Labor Day** |   |   |   |
 | **Sep 9** | **Systems for AI (Agents) Basics** | Kevin |   |   |
 |   | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |   |   |   |
@@ -121,7 +121,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | **Nov 2** | **Mid-Semester Presentations** |   |   |   |
 | **Nov 4** | **Mid-Semester Presentations** |   |   |   |
 | **Nov 9** | **Agents in the Physical World** |   |   |   |
-|   | [ASPIRE: Agentic `/Skills` Discovery for Robotics](https://research.nvidia.com/labs/gear/aspire/assets/Aspire.pdf?v=20260630d) (Required) |   |   |   |
+|   | [ASPIRE: Agentic `/Skills` Discovery for Robotics](https://arxiv.org/abs/2607.00272) (Required) |   |   |   |
 |   | [TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents](https://dl.acm.org/doi/10.1145/3745756.3809203) (Required) |   |   |   |
 |   | [VLA-Perf: Demystifying VLA Inference Performance](https://arxiv.org/abs/2602.18397) |   |   |   |
 | **Nov 11** | **Multi-Agent Execution** |   |   |   |

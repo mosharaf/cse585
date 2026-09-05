@@ -191,16 +191,15 @@ Therefore, *the slides for a presentation must be emailed to the instructor team
 To enable suggestions, use Google Slides and allow the instructor team give in-line comments.
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least one lectures**.
+Each group will also be assigned to **write summaries for at least one lecture**.
 The summary assigned to a group will not be the reading they gave the lecture on.
 The group will write a summary for all presented papers (required readings) for that lecture.
 
-THe requirement for writing an AI-assisted summary is available [here](/Summaries/Requirement.md).
+THe requirement for writing the summary is available [here](/Summaries/Requirement.md).
+Summaries violating the requirements will not be graded. 
 
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
-**Late summaries will not be counted.** 
-
-*Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
+**Late summaries will not be graded.** 
 
 ### Post-Presentation Panel Discussion 
 To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 

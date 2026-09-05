@@ -19,14 +19,14 @@ Your submission should contain the following sections:
 
 | Section | Name | AI Usage Requirement |
 |---|---|---|
-| 1 | The general research direction of the area | AI-assisted |
+| 1 | Research direction of the field | AI-assisted |
 | 2 | Lecture papers | AI-assisted |
 | 3 | Lecture discussions | Manual |
 | 4 | Proposal for follow-up work | AI-assisted |
 | 5 | A reflection on AI usage | Manual |
 | 6 | A transcript of your conversation with AI | AI |
 
-### Section 1: The general research direction of the area
+### Section 1: Research direction of the field
 
 Each lecture covers several papers from a shared research area. Summarize that area by addressing:
 * What is the research problem, and why is it important?
@@ -34,9 +34,8 @@ Each lecture covers several papers from a shared research area. Summarize that a
 * At a high level, what do the lecture papers solve, and where do they stand in the area?
 * If applicable, what follow-up work has built on the lecture papers?
 
-Your summary should demonstrate a careful survey of the area and an understanding of related works' high-level ideas
-(for the lecture papers themselves, you should understand all the details).
 Do not simply list what each related work does.
+A good summary should contain the how related works' ideas contribute to the evolution of the field.
 
 
 ### Section 2: Lecture papers
@@ -63,7 +62,8 @@ The guidelines under each are optional starting points.
 ### Section 3: Lecture discussions
 
 Summarize the main questions raised and discussed in the lecture, in Q&A form or any format you prefer.
-Per [FERPA](https://safecomputing.umich.edu/protect-privacy/privacy-u-m/videoconferencing/recording-privacy-concerns), you may not record the lecture, so pay attention and capture the main points as they come up.
+Per [FERPA](https://safecomputing.umich.edu/protect-privacy/privacy-u-m/videoconferencing/recording-privacy-concerns),
+you may not record the lecture, so pay attention and capture the main points as they come up.
 
 
 ### Section 4: Proposal for follow-up work

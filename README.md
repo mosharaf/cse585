@@ -10,6 +10,7 @@ Important links:
 * [Ed](https://edstem.org/us/join/bPfM9H)
 * [Submitting pre-lecture questions](https://forms.gle/un95Dn7JAbMBKgGq5)
 * [Signing up for your group](https://forms.gle/LbhmSRLhdRQPGJdTA)
+* [Writing paper summaries](/Summaries/Requirement.md)
 * Emailing course staff: [cse585-staff@umich.edu](mailto:cse585-staff@umich.edu)
 
 ### Team
@@ -190,24 +191,15 @@ Therefore, *the slides for a presentation must be emailed to the instructor team
 To enable suggestions, use Google Slides and allow the instructor team give in-line comments.
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least one lectures**.
+Each group will also be assigned to **write summaries for at least one lecture**.
 The summary assigned to a group will not be the reading they gave the lecture on.
 The group will write a summary for all presented papers (required readings) for that lecture.
 
-A paper summary must address the following questions in sufficient details (2-3 pages):
-
-* What is the problem addressed in the lecture, and why is this problem important?
-* What is the state of related works in this topic?
-* What is the proposed solution, and what key insight guides their solution?
-* What is one (or more) drawback or limitation of the proposal?
-* What are potential directions for future research?
+THe requirement for writing the summary is available [here](/Summaries/Requirement.md).
+Summaries violating the requirements will not be graded. 
 
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
-**Late summaries will not be counted.** 
-You should use [this format](Summaries/Template.md) for writing your summary.
-Use Google doc to enable in-line comments and suggestions.
-
-*Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
+**Late summaries will not be graded.** 
 
 ### Post-Presentation Panel Discussion 
 To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 

@@ -18,7 +18,7 @@ Important links:
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4156 LEIN. **By appointments only.**
-| [Kevin Xue](https://kevinrsx.github.io/) (kaiwenx) | GSI | 4828 BBB, F 11:00 AM -12:00 PM.
+| [Kevin Xue](https://kevinrsx.github.io/) (kaiwenx) | GSI | 4828 BBB, F 11:30 AM -12:30 PM.
 
 ### Communication
 **ALL** communication regarding this course must be via [Ed](https://edstem.org/us/join/bPfM9H).
@@ -61,7 +61,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 | **Sep 7** | **Labor Day** |   |   |   |
-| **Sep 9** | **Systems for AI (Agents) Basics** | Kevin |   |   |
+| **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-basics-kevin.pdf) |   |   |
 |   | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |   |   |   |
 |  | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
 |  | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |

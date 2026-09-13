@@ -66,7 +66,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
 |   | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |
 |   | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) |  |  |  |
-| **Sep 14** | **Distributed Training Basics** | Kevin |   |   |
+| **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-training-kevin.pdf) |   |   |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook) |   |   |   |
 | **Sep 16**  | **Pre-Training at Scale** | Ellie, Michela, Marilyn, Ruiqi | Angela, Saitej, Jack, Yash | Ziming, Boe, Nikolai, Rashon |

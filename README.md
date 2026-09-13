@@ -63,16 +63,16 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | **Sep 7** | **Labor Day** |   |   |   |
 | **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-basics-kevin.pdf) |   |   |
 |   | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |   |   |   |
-|  | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
-|  | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |
-|  | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) |  |  |  |
+|   | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
+|   | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |
+|   | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) |  |  |  |
 | **Sep 14** | **Distributed Training Basics** | Kevin |   |   |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook) |   |   |   |
-| **Sep 16**  | **Pre-Training at Scale** | Ellie, Michela, Marilyn, Ruiqi| Angela, Saitej, Jack, Yash|  |
+| **Sep 16**  | **Pre-Training at Scale** | Ellie, Michela, Marilyn, Ruiqi | Angela, Saitej, Jack, Yash | Ziming, Boe, Nikolai, Rashon |
 |   | [Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training](https://www.usenix.org/conference/osdi26/presentation/hu-weifang) (Required) |   |   |   |
-|  | [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://dl.acm.org/doi/10.1145/3695053.3731410) (Required) |  |  |  |
-|  | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng)  |   |   |   |
+|   | [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://dl.acm.org/doi/10.1145/3695053.3731410) (Required) |  |  |  |
+|   | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng)  |   |   |   |
 | **Sep 21** | **Post-Training** |  |  |  |
 |  | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |  | [RollArt: Disaggregated Multi-Task Agentic RL Training at Scale](https://www.usenix.org/conference/osdi26/presentation/gao) (Required) |  |  |  |

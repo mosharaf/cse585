@@ -73,7 +73,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training](https://www.usenix.org/conference/osdi26/presentation/hu-weifang) (Required) |   |   |   |
 |   | [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://dl.acm.org/doi/10.1145/3695053.3731410) (Required) |  |  |  |
 |   | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng)  |   |   |   |
-| **Sep 21** | **Post-Training** |  |  |  |
+| **Sep 21** | **Post-Training** | Preetom, Savini, Wenquan, Kennedy | Rohit, Arihan, Kushagra, Jatin | Gautham, Mythri, Alanna, Alexander |
 |  | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |  | [RollArt: Disaggregated Multi-Task Agentic RL Training at Scale](https://www.usenix.org/conference/osdi26/presentation/gao) (Required) |  |  |  |
 |   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://openreview.net/forum?id=X9diEuva9R) |   |   |   |
@@ -86,64 +86,64 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://dl.acm.org/doi/10.5555/3691938.3691949) (Required) |  |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |  |  |  |
 |   | [On Evaluating Performance of LLM Inference Serving Systems](https://openreview.net/forum?id=VG7F3Auy9T) |   |   |   |
-| **Sep 30**  | **Inference: Disaggregation and Fusion** |  |  |  |
+| **Sep 30**  | **Inference: Disaggregation and Fusion** | Angela, Saitej, Jack, Yash | Max, Lars, Jagger, Srinitish | Wei-Chun, Yun-De, Abhi |
 |  | [MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://www.usenix.org/conference/osdi26/presentation/cheng) (Required) |  |  |  |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 |  | [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](https://openreview.net/pdf?id=RW23qIUb5f) |   |   |   |
 |  | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) |  |  |  |
-| **Oct 5** | **Inference: Beyond Text** |  |  |  |
+| **Oct 5** | **Inference: Beyond Text** | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed | Rohit, Arihan, Kushagra, Jatin |
 |   | [Cornfigurator: Automated Planning for Any-to-Any Multimodal Model Serving](https://arxiv.org/abs/2512.14098) (Required) |   |   |   |
 |  | [DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows](https://arxiv.org/abs/2604.08123) (Required) |  |  |  |
 |   | [TetriServe: Efficiently Serving Mixed DiT Workloads](https://dl.acm.org/doi/10.1145/3779212.3790233) |   |   |   |
-| **Oct 7**  | **Agents as a New System Workload** |  |  |  |
+| **Oct 7**  | **Agents as a New System Workload** | Ruijie, Xinyi, Chenglin | Haripreeth, Shreya, Janani, Bhargav | Sri, Samir, Arshdeep, Aiden |
 |  | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://ieeexplore.ieee.org/document/11408569/) (Required) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) (Required) |   |   |   |
 |   | [What Limits Agentic Systems Efficiency?](https://openreview.net/pdf?id=HcGK3IRZn0) |   |   |   |
-| **Oct 12** | **Serving Systems for Agents** |   |   |   |
+| **Oct 12** | **Serving Systems for Agents** | Hongkwon, Donna, Dhruv, Toby | Ellie, Michela, Marilyn, Ruiqi | Ruijie, Xinyi, Chenglin |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) (Required) |   |   |   |
 |   | [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://www.usenix.org/conference/osdi26/presentation/chaudhry) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
-| **Oct 14** | **Agentic State Management** |   |   |   |
+| **Oct 14** | **Agentic State Management** | Vaelone, Ayan, Himanish, Mohammed | Preetom, Savini, Wenquan, Kennedy | Haripreeth, Shreya, Janani, Bhargav |
 |  | [Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://openreview.net/attachment?id=sVzK0LC9pn&name=pdf) (Required) |  |  |  |
 |  | [Strata: Hierarchical Context Caching for Long-Context LLM Serving](https://www.usenix.org/conference/osdi26/presentation/xie-zhiqiang) (Required) |  |  |  |
 |   | [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/abs/2406.00059) |   |   |   |
 |  | [Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://openreview.net/pdf?id=n4V3MSqK77) |  |  |  |
 | **Oct 19** | **Fall Study Break** |  |  |  |
 | **Oct 21** | **No Lecture: Work on Presentations** |  |  |  |
-| **Oct 26** | **Test-Time Compute as Resource Allocation** |  |  |  |
+| **Oct 26** | **Test-Time Compute as Resource Allocation** | Rohit, Arihan, Kushagra, Jatin | Arnav, Ruthesh, Eric, Hang | Preetom, Savini, Wenquan, Kennedy |
 |   | [Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration](https://www.usenix.org/conference/osdi26/presentation/zhong) (Required) |  |  |  |
 |   | [Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://openreview.net/pdf?id=P0GOk5wslg) (Required) |  |  |  |
 |   | [Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://www.microsoft.com/en-us/research/publication/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-execution/) |  |  |  |
-| **Oct 28** | **System Interfaces for Agents** |   |   |   |
+| **Oct 28** | **System Interfaces for Agents** | Gautham, Mythri, Alanna, Alexander | Ziming, Boe, Nikolai, Rashon | Arnav, Ruthesh, Eric, Hang |
 |   | [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://dl.acm.org/doi/10.1145/3767295.3803576) (Required) |   |   |   |
 |  | [Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://openreview.net/pdf?id=7NiATKcx1B) (Required) |  |  |  |
 |  | [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://aclanthology.org/2026.acl-long.838.pdf) |  |  |  |
 |   | [AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345) |   |   |   |
 | **Nov 2** | **Mid-Semester Presentations** |   |   |   |
 | **Nov 4** | **Mid-Semester Presentations** |   |   |   |
-| **Nov 9** | **Agents in the Physical World** |   |   |   |
+| **Nov 9** | **Agents in the Physical World** | Wei-Chun, Yun-De, Abhi | Hongkwon, Donna, Dhruv, Toby | Ellie, Michela, Marilyn, Ruiqi |
 |   | [ASPIRE: Agentic `/Skills` Discovery for Robotics](https://arxiv.org/abs/2607.00272) (Required) |   |   |   |
 |   | [TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents](https://dl.acm.org/doi/10.1145/3745756.3809203) (Required) |   |   |   |
 |   | [VLA-Perf: Demystifying VLA Inference Performance](https://arxiv.org/abs/2602.18397) |   |   |   |
-| **Nov 11** | **Multi-Agent Execution** |   |   |   |
+| **Nov 11** | **Multi-Agent Execution** | Haripreeth, Shreya, Janani, Bhargav | Wei-Chun, Yun-De, Abhi | Hongkwon, Donna, Dhruv, Toby |
 |   | [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/pdf?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://dl.acm.org/doi/full/10.1145/3786335.3813227) |   |   |   |
-| **Nov 16** | **Agent Security** |   |   |   |
+| **Nov 16** | **Agent Security** | Ziming, Boe, Nikolai, Rashon | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed |
 |   | [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://arxiv.org/abs/2606.15609) (Required) |   |   |   |
 |   | [Towards Automating Data Access Permissions in AI Agents](https://www.franziroesner.com/pdf/wu-agentperms-sp26.pdf) (Required) |   |   |   |
 |   | [ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation](https://arxiv.org/abs/2605.20906) |   |   |   |
-| **Nov 18** | **Operations: Capacity and Cost** |  |  |  |
+| **Nov 18** | **Operations: Capacity and Cost** | Jonathan, Alex, Audrey | Ruijie, Xinyi, Chenglin | Max, Lars, Jagger, Srinitish |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |
-| **Nov 23** | **Operations: Reliability and Fault Tolerance** |  |  |  |
+| **Nov 23** | **Operations: Reliability and Fault Tolerance** | Arnav, Ruthesh, Eric, Hang | Jonathan, Alex, Audrey | Angela, Saitej, Jack, Yash |
 |  | [SDCs in the Wild: Characterizing and Diagnosing SDC-Defective GPUs in Production LLM Training](https://www.usenix.org/conference/osdi26/presentation/zheng) (Required) |  |  |  |
 |  | [LogAct: Enabling Agentic Reliability via Shared Logs](https://arxiv.org/abs/2604.07988) (Required) |  |  |  |
 |  | [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) |  |  |  |
 |  | [LUMEN: Coordinated Failure Recovery for Distributed LLM Serving](https://arxiv.org/abs/2606.17787) |  |  |  |
 | **Nov 25** | **Thanksgiving** |   |   |   |
-| **Nov 30** | **Operations: Power and Energy** |   |   |   |
+| **Nov 30** | **Operations: Power and Energy** | Max, Lars, Jagger, Srinitish | Gautham, Mythri, Alanna, Alexander | Jonathan, Alex, Audrey |
 |   | [KAIROS: Stateful, Context-Aware, Power-Efficient Agentic Inference Serving](https://arxiv.org/abs/2604.16682) (Required) |   |   |   |
 |  | [Provisioning to Runtime Optimization of a 100 MW-Scale AI Cluster](https://arxiv.org/abs/2605.24461) (Required) |  |  |  |
 |   | [Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076) |   |   |   |

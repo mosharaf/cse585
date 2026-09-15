@@ -115,9 +115,9 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://openreview.net/pdf?id=P0GOk5wslg) (Required) |  |  |  |
 |   | [Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://www.microsoft.com/en-us/research/publication/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-execution/) |  |  |  |
 | **Oct 28** | **System Interfaces for Agents** | Gautham, Mythri, Alanna, Alexander | Ziming, Boe, Nikolai, Rashon | Arnav, Ruthesh, Eric, Hang |
+|   | [CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution](https://arxiv.org/abs/2608.12629) (Required) |   |   |   |
 |   | [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://dl.acm.org/doi/10.1145/3767295.3803576) (Required) |   |   |   |
-|  | [Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://openreview.net/pdf?id=7NiATKcx1B) (Required) |  |  |  |
-|  | [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://aclanthology.org/2026.acl-long.838.pdf) |  |  |  |
+|   | [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://aclanthology.org/2026.acl-long.838.pdf) |  |  |  |
 |   | [AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345) |   |   |   |
 | **Nov 2** | **Mid-Semester Presentations** |   |   |   |
 | **Nov 4** | **Mid-Semester Presentations** |   |   |   |

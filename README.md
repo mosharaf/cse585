@@ -73,7 +73,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training](https://www.usenix.org/conference/osdi26/presentation/hu-weifang) (Required) |   |   |   |
 |   | [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://dl.acm.org/doi/10.1145/3695053.3731410) (Required) |  |  |  |
 |   | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng)  |   |   |   |
-| **Sep 21** | **Post-Training** | Preetom, Savini, Wenquan, Kennedy | Rohit, Arihan, Kushagra, Jatin | Gautham, Mythri, Alanna, Alexander |
+| **Sep 21** | **Post-Training** | Sri, Samir, Arshdeep, Aiden | Rohit, Arihan, Kushagra, Jatin | Gautham, Mythri, Alanna, Alexander |
 |  | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |  | [RollArt: Disaggregated Multi-Task Agentic RL Training at Scale](https://www.usenix.org/conference/osdi26/presentation/gao) (Required) |  |  |  |
 |   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://openreview.net/forum?id=X9diEuva9R) |   |   |   |
@@ -91,7 +91,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 |  | [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](https://openreview.net/pdf?id=RW23qIUb5f) |   |   |   |
 |  | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) |  |  |  |
-| **Oct 5** | **Inference: Beyond Text** | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed | Rohit, Arihan, Kushagra, Jatin |
+| **Oct 5** | **Inference: Beyond Text** | Preetom, Savini, Wenquan, Kennedy | Vaelone, Ayan, Himanish, Mohammed | Rohit, Arihan, Kushagra, Jatin |
 |   | [Cornfigurator: Automated Planning for Any-to-Any Multimodal Model Serving](https://arxiv.org/abs/2512.14098) (Required) |   |   |   |
 |  | [DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows](https://arxiv.org/abs/2604.08123) (Required) |  |  |  |
 |   | [TetriServe: Efficiently Serving Mixed DiT Workloads](https://dl.acm.org/doi/10.1145/3779212.3790233) |   |   |   |

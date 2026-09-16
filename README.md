@@ -1,4 +1,4 @@
-# CSE 585: Advanced Scalable Systems for Agentic AI (W'26)
+# CSE 585: Advanced Scalable Systems for Agentic AI (F'26)
 
 ## Administrivia
 * Catalog Number: 29242
@@ -195,7 +195,7 @@ Each group will also be assigned to **write summaries for at least one lecture**
 The summary assigned to a group will not be the reading they gave the lecture on.
 The group will write a summary for all presented papers (required readings) for that lecture.
 
-THe requirement for writing the summary is available [here](/Summaries/Requirement.md).
+The requirement for writing the summary is available [here](/Summaries/Requirement.md).
 Summaries violating the requirements will not be graded. 
 
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 

@@ -226,8 +226,6 @@ Given the discussion-based nature of this course, participation is required both
 You are expected to attend **all** lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
 There will be random events to gauge attendance.
 
-A key part of participation will be in the form of discussion in Ed.
-The group in charge of the summary should initiate the discussion and the rest should participate.
 Not everyone has to add something every day, but it is expected that everyone has something to say over the semester.
 
 ### Project

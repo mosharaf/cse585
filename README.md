@@ -69,7 +69,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-training-kevin.pdf) |   |   |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook) |   |   |   |
-| **Sep 16**  | **Pre-Training at Scale** | [Ellie, Michela, Marilyn, Ruiqi](/Slides/091626-seehorn-mchini-mrego-ruiqich.pdf); <br> [(Context Parallelism Supplementary)](/Slides/091626-kaiwenx-supplementary.pdf) | Angela, Saitej, Jack, Yash | Ziming, Boe, Nikolai, Rashon |
+| **Sep 16**  | **Pre-Training at Scale** | [Ellie, Michela, Marilyn, Ruiqi](/Slides/091626-seehorn-mchini-mrego-ruiqich.pdf); <br> [(Context Parallelism Supplementary)](/Slides/091626-kaiwenx-supplementary.pdf) | [Angela, Saitej, Jack](/Summaries/091626-anqili-saitejv-jackmccl.pdf) | Ziming, Boe, Nikolai, Rashon |
 |   | [Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training](https://www.usenix.org/conference/osdi26/presentation/hu-weifang) (Required) |   |   |   |
 |   | [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://dl.acm.org/doi/10.1145/3695053.3731410) (Required) |  |  |  |
 |   | [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://www.usenix.org/conference/osdi25/presentation/wang-zheng)  |   |   |   |

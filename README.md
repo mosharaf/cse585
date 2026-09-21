@@ -110,11 +110,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://openreview.net/pdf?id=n4V3MSqK77) |  |  |  |
 | **Oct 19** | **Fall Study Break** |  |  |  |
 | **Oct 21** | **No Lecture: Work on Presentations** |  |  |  |
-| **Oct 26** | **Test-Time Compute as Resource Allocation** | Rohit, Arihan, Kushagra, Jatin | Arnav, Ruthesh, Eric, Hang | Preetom, Savini, Wenquan, Kennedy |
+| **Oct 26** | **Test-Time Compute as Resource Allocation** | Rohit, Arihan, Kushagra, Jatin | Ruthesh, Eric, Hang | Preetom, Savini, Wenquan, Kennedy |
 |   | [Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration](https://www.usenix.org/conference/osdi26/presentation/zhong) (Required) |  |  |  |
 |   | [Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://openreview.net/pdf?id=P0GOk5wslg) (Required) |  |  |  |
 |   | [Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://www.microsoft.com/en-us/research/publication/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-execution/) |  |  |  |
-| **Oct 28** | **System Interfaces for Agents** | Gautham, Mythri, Alanna, Alexander | Ziming, Boe, Nikolai, Rashon | Arnav, Ruthesh, Eric, Hang |
+| **Oct 28** | **System Interfaces for Agents** | Gautham, Mythri, Alanna, Alexander | Ziming, Boe, Nikolai, Rashon |Ruthesh, Eric, Hang |
 |   | [CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution](https://arxiv.org/abs/2608.12629) (Required) |   |   |   |
 |   | [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://dl.acm.org/doi/10.1145/3767295.3803576) (Required) |   |   |   |
 |   | [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://aclanthology.org/2026.acl-long.838.pdf) |  |  |  |
@@ -137,7 +137,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |
-| **Nov 23** | **Operations: Reliability and Fault Tolerance** | Arnav, Ruthesh, Eric, Hang | Jonathan, Alex, Audrey | Angela, Saitej, Jack, Yash |
+| **Nov 23** | **Operations: Reliability and Fault Tolerance** | Ruthesh, Eric, Hang | Jonathan, Alex, Audrey | Angela, Saitej, Jack, Yash |
 |  | [SDCs in the Wild: Characterizing and Diagnosing SDC-Defective GPUs in Production LLM Training](https://www.usenix.org/conference/osdi26/presentation/zheng) (Required) |  |  |  |
 |  | [LogAct: Enabling Agentic Reliability via Shared Logs](https://arxiv.org/abs/2604.07988) (Required) |  |  |  |
 |  | [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) |  |  |  |

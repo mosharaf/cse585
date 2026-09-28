@@ -81,7 +81,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 | **Sep 23** | **No Class: Work on Project Proposals** |   |   |   |
 |   | [Writing Reviews for Systems Conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |   |   |   |
 |   | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required) |   |   |   |
-| **Sep 28** | **Inference Basics** | Kevin |   |   |
+| **Sep 28** | **Inference Basics** | [Kevin](/Slides/092826-kaiwenx.pdf) |   |   |
 |   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) |   |   |   |
 |  | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://dl.acm.org/doi/10.5555/3691938.3691949) (Required) |  |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |  |  |  |

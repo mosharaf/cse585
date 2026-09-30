@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://dl.acm.org/doi/10.5555/3691938.3691949) (Required) |  |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |  |  |  |
 |   | [On Evaluating Performance of LLM Inference Serving Systems](https://openreview.net/forum?id=VG7F3Auy9T) |   |   |   |
-| **Sep 30**  | **Inference: Disaggregation and Fusion** | Angela, Saitej, Jack, Yash | Max, Lars, Jagger, Srinitish | Wei-Chun, Yun-De, Abhi |
+| **Sep 30**  | **Inference: Disaggregation and Fusion** | [Angela, Saitej, Jack](/Slides/0930-anqili-saitejv-jackmccl) | Max, Lars, Jagger, Srinitish | Wei-Chun, Yun-De, Abhi |
 |  | [MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://www.usenix.org/conference/osdi26/presentation/cheng) (Required) |  |  |  |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 |  | [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](https://openreview.net/pdf?id=RW23qIUb5f) |   |   |   |
@@ -137,7 +137,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |
-| **Nov 23** | **Operations: Reliability and Fault Tolerance** | Ruthesh, Eric, Hang | Jonathan, Alex, Audrey | Angela, Saitej, Jack, Yash |
+| **Nov 23** | **Operations: Reliability and Fault Tolerance** | Ruthesh, Eric, Hang | Jonathan, Alex, Audrey | Angela, Saitej, Jack |
 |  | [SDCs in the Wild: Characterizing and Diagnosing SDC-Defective GPUs in Production LLM Training](https://www.usenix.org/conference/osdi26/presentation/zheng) (Required) |  |  |  |
 |  | [LogAct: Enabling Agentic Reliability via Shared Logs](https://arxiv.org/abs/2604.07988) (Required) |  |  |  |
 |  | [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) |  |  |  |

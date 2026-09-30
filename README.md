@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://dl.acm.org/doi/10.5555/3691938.3691949) (Required) |  |  |  |
 |  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |  |  |  |
 |   | [On Evaluating Performance of LLM Inference Serving Systems](https://openreview.net/forum?id=VG7F3Auy9T) |   |   |   |
-| **Sep 30**  | **Inference: Disaggregation and Fusion** | [Angela, Saitej, Jack](/Slides/0930-anqili-saitejv-jackmccl) | Max, Lars, Jagger, Srinitish | Wei-Chun, Yun-De, Abhi |
+| **Sep 30**  | **Inference: Disaggregation and Fusion** | [Angela, Saitej, Jack](/Slides/093026-anqili-saitejv-jackmccl.pdf) | Max, Lars, Jagger, Srinitish | Wei-Chun, Yun-De, Abhi |
 |  | [MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://www.usenix.org/conference/osdi26/presentation/cheng) (Required) |  |  |  |
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 |  | [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](https://openreview.net/pdf?id=RW23qIUb5f) |   |   |   |

@@ -91,7 +91,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://www.usenix.org/conference/fast25/presentation/qin) (Required) |  |  |  |
 |  | [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](https://openreview.net/pdf?id=RW23qIUb5f) |   |   |   |
 |  | [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism](https://dl.acm.org/doi/10.1145/3694715.3695948) |  |  |  |
-| **Oct 5** | **Inference: Beyond Text** | Preetom, Savini, Wenquan, Kennedy | Vaelone, Ayan, Himanish, Mohammed | Rohit, Arihan, Kushagra, Jatin |
+| **Oct 5** | **Inference: Beyond Text** | [Preetom, Savini, Wenquan, Kennedy](/Slides/100526-pkbiswas-savinik-wenquan-kenmcart.pdf) ([Extended ver.](/Slides/100526-pkbiswas-savinik-wenquan-kenmcart-extended.pdf)) | Vaelone, Ayan, Himanish, Mohammed | Rohit, Arihan, Kushagra, Jatin |
 |   | [Cornfigurator: Automated Planning for Any-to-Any Multimodal Model Serving](https://arxiv.org/abs/2512.14098) (Required) |   |   |   |
 |  | [DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows](https://dl.acm.org/doi/10.1145/3830418.3843880) (Required) |  |  |  |
 |   | [TetriServe: Efficiently Serving Mixed DiT Workloads](https://dl.acm.org/doi/10.1145/3779212.3790233) |   |   |   |

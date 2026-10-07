@@ -95,7 +95,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Cornfigurator: Automated Planning for Any-to-Any Multimodal Model Serving](https://arxiv.org/abs/2512.14098) (Required) |   |   |   |
 |  | [DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows](https://dl.acm.org/doi/10.1145/3830418.3843880) (Required) |  |  |  |
 |   | [TetriServe: Efficiently Serving Mixed DiT Workloads](https://dl.acm.org/doi/10.1145/3779212.3790233) |   |   |   |
-| **Oct 7**  | **Agents as a New System Workload** | Ruijie, Xinyi, Chenglin | Haripreeth, Shreya, Janani, Bhargav | Sri, Samir, Arshdeep, Aiden |
+| **Oct 7**  | **Agents as a New System Workload** | [Ruijie, Xinyi, Chenglin](/Slides/100726-ruijieg-xinyixuu-lchengl.pdf) | [Haripreeth, Shreya, Janani, Bhargav](/Summaries/100526-vaelone-himak-ayannair-almkrami.pdf) | Sri, Samir, Arshdeep, Aiden |
 |  | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://ieeexplore.ieee.org/document/11408569/) (Required) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) (Required) |   |   |   |
 |   | [What Limits Agentic Systems Efficiency?](https://openreview.net/pdf?id=HcGK3IRZn0) |   |   |   |

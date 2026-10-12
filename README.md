@@ -218,7 +218,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit](https://forms.gle/un95Dn7JAbMBKgGq5) **one insightful question** for each presented paper before each class.
+  - You are required to [submit](https://forms.gle/un95Dn7JAbMBKgGq5) **one insightful question** for each presented paper by 5 pm the day before each student lecture.
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
 
 ### Participation

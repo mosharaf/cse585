@@ -61,12 +61,12 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 | **Sep 7** | **Labor Day** |   |   |   |
-| **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-kevin.pdf) |   |   |
+| **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-kaiwenx.pdf) |   |   |
 |   | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |   |   |   |
 |   | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
 |   | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |
 |   | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) |  |  |  |
-| **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-kevin.pdf) |   |   |
+| **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-kaiwenx.pdf) |   |   |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook) |   |   |   |
 | **Sep 16**  | **Pre-Training at Scale** | [Ellie, Michela, Marilyn, Ruiqi](/Slides/091626-seehorn-mchini-mrego-ruiqich.pdf); <br> [(Context Parallelism Supplementary)](/Slides/091626-kaiwenx-supplementary.pdf) | [Angela, Saitej, Jack](/Summaries/091626-anqili-saitejv-jackmccl.pdf) | Ziming, Boe, Nikolai, Rashon |

@@ -61,12 +61,12 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 | **Sep 7** | **Labor Day** |   |   |   |
-| **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-basics-kevin.pdf) |   |   |
+| **Sep 9** | **Systems for AI (Agents) Basics** | [Kevin](/Slides/090926-kevin.pdf) |   |   |
 |   | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |   |   |   |
 |   | [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228) (Required) |  |  |  |
 |   | [Anthropic, When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) |  |  |  |
 |   | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) |  |  |  |
-| **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-training-kevin.pdf) |   |   |
+| **Sep 14** | **Distributed Training Basics** | [Kevin](/Slides/091426-kevin.pdf) |   |   |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook) |   |   |   |
 | **Sep 16**  | **Pre-Training at Scale** | [Ellie, Michela, Marilyn, Ruiqi](/Slides/091626-seehorn-mchini-mrego-ruiqich.pdf); <br> [(Context Parallelism Supplementary)](/Slides/091626-kaiwenx-supplementary.pdf) | [Angela, Saitej, Jack](/Summaries/091626-anqili-saitejv-jackmccl.pdf) | Ziming, Boe, Nikolai, Rashon |
@@ -99,11 +99,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://ieeexplore.ieee.org/document/11408569/) (Required) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) (Required) |   |   |   |
 |   | [What Limits Agentic Systems Efficiency?](https://openreview.net/pdf?id=HcGK3IRZn0) |   |   |   |
-| **Oct 12** | **Serving Systems for Agents** | [Hongkwon, Donna, Dhruv, Toby](/Slides/101226-hongkwon-phdonn-dhruvr-tqbuck.pdf) | Ellie, Michela, Marilyn, Ruiqi | Ruijie, Xinyi, Chenglin |
+| **Oct 12** | **Serving Systems for Agents** | [Hongkwon, Donna, Dhruv, Toby](/Slides/101226-hongkwon-phdonn-dhruvr-tqbuck.pdf) | [Ellie, Michela, Marilyn, Ruiqi](/Summaries/101226-seehorn-mchini-mrego-ruiqich.pdf) | Ruijie, Xinyi, Chenglin |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) (Required) |   |   |   |
 |   | [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://www.usenix.org/conference/osdi26/presentation/chaudhry) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
-| **Oct 14** | **Agentic State Management** | Vaelone, Ayan, Himanish, Mohammed | Preetom, Savini, Wenquan, Kennedy | Haripreeth, Shreya, Janani, Bhargav |
+| **Oct 14** | **Agentic State Management** | [Vaelone, Ayan, Himanish, Mohammed](/Slides/101426-vaelone-ayannair-himak-almkrami.pdf) | Preetom, Savini, Wenquan, Kennedy | Haripreeth, Shreya, Janani, Bhargav |
 |  | [Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://openreview.net/attachment?id=sVzK0LC9pn&name=pdf) (Required) |  |  |  |
 |  | [Strata: Hierarchical Context Caching for Long-Context LLM Serving](https://www.usenix.org/conference/osdi26/presentation/xie-zhiqiang) (Required) |  |  |  |
 |   | [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/abs/2406.00059) |   |   |   |

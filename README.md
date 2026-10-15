@@ -103,7 +103,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) (Required) |   |   |   |
 |   | [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://www.usenix.org/conference/osdi26/presentation/chaudhry) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
-| **Oct 14** | **Agentic State Management** | [Vaelone, Ayan, Himanish, Mohammed](/Slides/101426-vaelone-ayannair-himak-almkrami.pdf) | Preetom, Savini, Wenquan, Kennedy | Haripreeth, Shreya, Janani, Bhargav |
+| **Oct 14** | **Agentic State Management** | [Vaelone, Ayan, Himanish, Mohammed](/Slides/101426-vaelone-ayannair-himak-almkrami.pdf) | [Preetom, Savini, Wenquan, Kennedy](/Summaries/101426-pkbiswas-savinik-wenquan-kenmcart.pdf) | Haripreeth, Shreya, Janani, Bhargav |
 |  | [Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://openreview.net/attachment?id=sVzK0LC9pn&name=pdf) (Required) |  |  |  |
 |  | [Strata: Hierarchical Context Caching for Long-Context LLM Serving](https://www.usenix.org/conference/osdi26/presentation/xie-zhiqiang) (Required) |  |  |  |
 |   | [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/abs/2406.00059) |   |   |   |

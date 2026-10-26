@@ -110,7 +110,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://openreview.net/pdf?id=n4V3MSqK77) |  |  |  |
 | **Oct 19** | **Fall Study Break** |  |  |  |
 | **Oct 21** | **No Lecture: Work on Presentations** |  |  |  |
-| **Oct 26** | **Test-Time Compute as Resource Allocation** | Rohit, Arihan, Kushagra, Jatin | Ruthesh, Eric, Hang | Preetom, Savini, Wenquan, Kennedy |
+| **Oct 26** | **Test-Time Compute as Resource Allocation** | [Rohit, Arihan, Kushagra, Jatin](/Slides/102626-rohitps-imarihan-kushm-jatinsh.pdf) | Ruthesh, Eric, Hang | Preetom, Savini, Wenquan, Kennedy |
 |   | [Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration](https://www.usenix.org/conference/osdi26/presentation/zhong) (Required) |  |  |  |
 |   | [Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://openreview.net/pdf?id=P0GOk5wslg) (Required) |  |  |  |
 |   | [Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution](https://www.microsoft.com/en-us/research/publication/act-while-thinking-accelerating-llm-agents-via-pattern-aware-speculative-tool-execution/) |  |  |  |

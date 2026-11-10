@@ -121,7 +121,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345) |   |   |   |
 | **Nov 2** | **Mid-Semester Presentations** |   |   |   |
 | **Nov 4** | **Mid-Semester Presentations** |   |   |   |
-| **Nov 9** | **Agents in the Physical World** | [Wei-Chun, Yun-De, Abhi](/Slides/110926-weichunh-yundeliu-abhipa.pdf) | Hongkwon, Donna, Dhruv, Toby | Ellie, Michela, Marilyn, Ruiqi |
+| **Nov 9** | **Agents in the Physical World** | [Wei-Chun, Yun-De, Abhi](/Slides/110926-weichunh-yundeliu-abhipa.pdf) | [Hongkwon, Donna, Dhruv, Toby](./Summaries/110926-hongkwon-phdonn-dhruvr-tqbuck.pdf) | Ellie, Michela, Marilyn, Ruiqi |
 |   | [ASPIRE: Agentic `/Skills` Discovery for Robotics](https://arxiv.org/abs/2607.00272) (Required) |   |   |   |
 |   | [TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents](https://dl.acm.org/doi/10.1145/3745756.3809203) (Required) |   |   |   |
 |   | [VLA-Perf: Demystifying VLA Inference Performance](https://arxiv.org/abs/2602.18397) |   |   |   |

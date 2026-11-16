@@ -125,11 +125,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [ASPIRE: Agentic `/Skills` Discovery for Robotics](https://arxiv.org/abs/2607.00272) (Required) |   |   |   |
 |   | [TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents](https://dl.acm.org/doi/10.1145/3745756.3809203) (Required) |   |   |   |
 |   | [VLA-Perf: Demystifying VLA Inference Performance](https://arxiv.org/abs/2602.18397) |   |   |   |
-| **Nov 11** | **Multi-Agent Execution** | [Haripreeth, Shreya, Janani, Bhargav](/Slides/111106-havarur-snadiger-jananig-bsrinid.pdf) | Wei-Chun, Yun-De, Abhi | Hongkwon, Donna, Dhruv, Toby |
+| **Nov 11** | **Multi-Agent Execution** | [Haripreeth, Shreya, Janani, Bhargav](/Slides/111106-havarur-snadiger-jananig-bsrinid.pdf) | [Wei-Chun, Yun-De, Abhi](/Summaries/111126-weichunh-yundeliu-abhipa.pdf) | Hongkwon, Donna, Dhruv, Toby |
 |   | [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/pdf?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://dl.acm.org/doi/full/10.1145/3786335.3813227) |   |   |   |
-| **Nov 16** | **Agent Security** | Ziming, Boe, Nikolai, Rashon | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed |
+| **Nov 16** | **Agent Security** | [Ziming, Boe, Nikolai, Rashon](/Slides/111626-zimingzh-boezhou-zhitkov-rashonp.pdf) | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed |
 |   | [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://arxiv.org/abs/2606.15609) (Required) |   |   |   |
 |   | [Towards Automating Data Access Permissions in AI Agents](https://www.franziroesner.com/pdf/wu-agentperms-sp26.pdf) (Required) |   |   |   |
 |   | [ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation](https://arxiv.org/abs/2605.20906) |   |   |   |

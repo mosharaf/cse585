@@ -152,10 +152,10 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Barbarians at the Gate: How AI is Upending Systems Research](https://arxiv.org/abs/2510.06189) (Required) |   |   |   |
 |   | [We Need a New Ethics for a World of AI Agents](https://arxiv.org/abs/2509.10289) (Required) |   |   |   |
 |   | [ECO: An AI-Driven Code Efficiency Optimizer for Warehouse Scale Computers](https://www.usenix.org/conference/osdi26/presentation/lin-hannah) |   |   |   |
-| **Dec 7** | **No Lecture: Work on Posters** |   |   |   |
+| **Dec 7** | **Final Poster Presentations<br>(10 AM - 12 PM, Tishman hall)** |   |   |   |
 |   | [Creating an Effective Poster](https://designcenter.uiowa.edu/creating-effective-posters) (Required) |   |   |   |
 |   | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |   |   |   |
-| **Dec 9** | **Final Poster Presentations (TBD)** |   |   |   |
+| **Dec 9** | **No Lecture: Work on Reports** |   |   |   |
 
 ## Policies
 

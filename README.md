@@ -129,11 +129,11 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/pdf?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://dl.acm.org/doi/full/10.1145/3786335.3813227) |   |   |   |
-| **Nov 16** | **Agent Security** | [Ziming, Boe, Nikolai, Rashon](/Slides/111626-zimingzh-boezhou-zhitkov-rashonp.pdf) | Sri, Samir, Arshdeep, Aiden | Vaelone, Ayan, Himanish, Mohammed |
+| **Nov 16** | **Agent Security** | [Ziming, Boe, Nikolai, Rashon](/Slides/111626-zimingzh-boezhou-zhitkov-rashonp.pdf) | [Sri, Samir, Arshdeep, Aiden](/Summaries/111626-srisatya-samirkh-arshsb-aidenrds.pdf) | Vaelone, Ayan, Himanish, Mohammed |
 |   | [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://arxiv.org/abs/2606.15609) (Required) |   |   |   |
 |   | [Towards Automating Data Access Permissions in AI Agents](https://www.franziroesner.com/pdf/wu-agentperms-sp26.pdf) (Required) |   |   |   |
 |   | [ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation](https://arxiv.org/abs/2605.20906) |   |   |   |
-| **Nov 18** | **Operations: Capacity and Cost** | Jonathan, Alex, Audrey | Ruijie, Xinyi, Chenglin | Max, Lars, Jagger, Srinitish |
+| **Nov 18** | **Operations: Capacity and Cost** | [Jonathan, Alex, Audrey](/Slides/111826-jonathd-alexzhan-aadougl.pdf) | Ruijie, Xinyi, Chenglin | Max, Lars, Jagger, Srinitish |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |

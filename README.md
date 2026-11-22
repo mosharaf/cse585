@@ -133,7 +133,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |   | [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://arxiv.org/abs/2606.15609) (Required) |   |   |   |
 |   | [Towards Automating Data Access Permissions in AI Agents](https://www.franziroesner.com/pdf/wu-agentperms-sp26.pdf) (Required) |   |   |   |
 |   | [ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation](https://arxiv.org/abs/2605.20906) |   |   |   |
-| **Nov 18** | **Operations: Capacity and Cost** | [Jonathan, Alex, Audrey](/Slides/111826-jonathd-alexzhan-aadougl.pdf) | Ruijie, Xinyi, Chenglin | Max, Lars, Jagger, Srinitish |
+| **Nov 18** | **Operations: Capacity and Cost** | [Jonathan, Alex, Audrey](/Slides/111826-jonathd-alexzhan-aadougl.pdf) | [Ruijie, Xinyi, Chenglin](/Summaries/111826-ruijieg-xinyixuu-lchengl.pdf) | Max, Lars, Jagger, Srinitish |
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |

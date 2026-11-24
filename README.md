@@ -137,7 +137,7 @@ We will read recent papers from top venues to understand trends in scalable GenA
 |  | [Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework](https://arxiv.org/abs/2509.26534) (Required) |  |  |  |
 |  | [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://www.usenix.org/conference/osdi26/presentation/sivan) (Required) |  |  |  |
 |  | [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://www.usenix.org/conference/osdi26/presentation/yu-shan) |  |  |  |
-| **Nov 23** | **Operations: Reliability and Fault Tolerance** | [Ruthesh, Eric, Hang](/Slides/112326-truthesh-erzhao-yeungh.pdf) | Jonathan, Alex, Audrey | Angela, Saitej, Jack |
+| **Nov 23** | **Operations: Reliability and Fault Tolerance** | [Ruthesh, Eric, Hang](/Slides/112326-truthesh-erzhao-yeungh.pdf) | [Jonathan, Alex, Audrey](/Summaries/112326-jonathd-alexzhan-aadougl.pdf) | Angela, Saitej, Jack |
 |  | [SDCs in the Wild: Characterizing and Diagnosing SDC-Defective GPUs in Production LLM Training](https://www.usenix.org/conference/osdi26/presentation/zheng) (Required) |  |  |  |
 |  | [LogAct: Enabling Agentic Reliability via Shared Logs](https://arxiv.org/abs/2604.07988) (Required) |  |  |  |
 |  | [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) |  |  |  |
